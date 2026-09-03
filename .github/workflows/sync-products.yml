@@ -1,0 +1,50 @@
+name: Trendyol katalog senkron
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # her gün 06:00 TRT
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-products
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Bağımlılıklar
+        run: npm ci || npm install
+
+      - name: Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: webp aracı
+        run: sudo apt-get update && sudo apt-get install -y webp
+
+      - name: Kataloğu çek
+        env:
+          PLAYWRIGHT_CHANNEL: chromium   # runner'da Google Chrome yok
+          # PLAYWRIGHT_HEADLESS boş: xvfb altında headful → Cloudflare'i daha az tetikler
+        run: xvfb-run -a node scripts/scrape-trendyol.mjs
+
+      - name: Değişiklik varsa commit'le
+        run: |
+          if [ -n "$(git status --porcelain products.json assets/products)" ]; then
+            git config user.name  "saf-hobi-bot"
+            git config user.email "actions@github.com"
+            git add products.json assets/products
+            git commit -m "chore: Trendyol kataloğu güncellendi ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Katalog güncel, commit yok."
+          fi

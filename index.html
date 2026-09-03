@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saf Hobi Atölye — El Yapımı Mandala & Dekor</title>
+<meta name="description" content="Saf Hobi Atölye'nin elde çizilen mandala aydınlatmaları, epoksi objeleri ve kişiye özel hediyelik dekorları. Beğendiğin ürünü tek dokunuşla Trendyol'dan güvenle satın al.">
+<meta name="author" content="Ugur Cihan Cekic">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://saf-hobi-shop.vercel.app/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Saf Hobi Atölye — El Yapımı Mandala & Dekor">
+<meta property="og:description" content="Elde çizilen, ışıkla nefes alan mandala dekorlar. Beğen, Trendyol'dan al.">
+<meta property="og:image" content="https://saf-hobi-shop.vercel.app/assets/og.jpg">
+<meta property="og:locale" content="tr_TR">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="theme-color" content="#15100b">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,600&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Store",
+  "name": "Saf Hobi Atölye",
+  "description": "El yapımı mandala aydınlatma, epoksi obje ve kişiye özel dekoratif hediyelik ürünler.",
+  "url": "https://saf-hobi-shop.vercel.app/",
+  "sameAs": [
+    "https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687",
+    "https://www.instagram.com/safhobi"
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="nav" id="nav" aria-label="Ana menü">
+  <div class="wrap nav-inner">
+    <a href="#top" class="brand">
+      <span class="brand-mark" aria-hidden="true">✳</span>
+      Saf Hobi Atölye
+    </a>
+    <div class="nav-links">
+      <a href="#shop">Ürünler</a>
+      <a href="#why">Neden Biz</a>
+      <a href="#insta">Instagram</a>
+      <a href="https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687" target="_blank" rel="noopener">Trendyol ↗</a>
+    </div>
+  </div>
+</nav>
+
+<main id="top">
+
+  <!-- ============ HERO (warm) ============ -->
+  <header class="hero" id="hero">
+    <div class="hero-media" id="heroMedia">
+      <img src="assets/mandala-hero.svg" alt="" id="heroPoster">
+      <!-- Video üretince: data-src="assets/hero-loop" ekle → JS .webm/.mp4'ü bağlar -->
+      <video muted loop playsinline id="heroVideo" hidden></video>
+    </div>
+    <div class="hero-glow" aria-hidden="true"></div>
+    <div class="hero-content">
+      <p class="hero-kicker">El Yapımı · Trendyol Mağazası</p>
+      <h1>Işıkla nefes alan <em>mandala</em> dekorlar</h1>
+      <p class="lead">Her biri elde çizilen, tek tek üretilen aydınlatma ve objeler. Beğendiğini seç, Trendyol'dan güvenle al.</p>
+      <div class="hero-actions">
+        <a href="#shop" class="btn">Koleksiyonu Keşfet</a>
+        <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" class="btn btn-warm">Instagram'da Gör</a>
+      </div>
+    </div>
+    <p class="scroll-hint" aria-hidden="true">aşağı kaydır ↓</p>
+    <div class="hero-fade" aria-hidden="true"></div>
+  </header>
+
+  <!-- ============ SHOP (pink) ============ -->
+  <section class="section" id="shop">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Koleksiyon</span>
+        <h2>Atölyeden çıkan her şey</h2>
+        <p id="shopCount">Ürünler yükleniyor…</p>
+      </div>
+
+      <div class="shop-controls">
+        <div class="chips" id="catChips" role="group" aria-label="Kategori filtresi"></div>
+        <div class="shop-tools">
+          <label class="field">
+            <span aria-hidden="true">🔍</span>
+            <input type="search" id="search" placeholder="Ürün ara…" aria-label="Ürün ara">
+          </label>
+          <label class="field">
+            <span class="sr-only">Sıralama</span>
+            <select id="sort" aria-label="Sıralama">
+              <option value="feat">Öne çıkanlar</option>
+              <option value="price-asc">Fiyat: artan</option>
+              <option value="price-desc">Fiyat: azalan</option>
+              <option value="rating">Puan</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="grid" id="grid" aria-live="polite"></div>
+      <p class="stale-note" id="staleNote" hidden></p>
+    </div>
+  </section>
+
+  <!-- ============ WHY ============ -->
+  <section class="section features" id="why">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="eyebrow">Neden Saf Hobi</span>
+        <h2>Seri üretim değil, el emeği</h2>
+      </div>
+      <div class="feature-grid">
+        <div class="feature">
+          <div class="ic" aria-hidden="true">✍️</div>
+          <h3>Elde çizilen desen</h3>
+          <p>Her mandala tek tek çiziliyor; ikisi birbirinin aynısı değil.</p>
+        </div>
+        <div class="feature">
+          <div class="ic" aria-hidden="true">🎁</div>
+          <h3>Hediyeye hazır</h3>
+          <p>Doğum günü, yıl dönümü ve ev hediyesi için özenli paketleme.</p>
+        </div>
+        <div class="feature">
+          <div class="ic" aria-hidden="true">🪄</div>
+          <h3>Kişiye özel</h3>
+          <p>İsim, tarih veya renk isteğinle sana özel üretim yapılıyor.</p>
+        </div>
+        <div class="feature">
+          <div class="ic" aria-hidden="true">🚚</div>
+          <h3>Trendyol güvencesi</h3>
+          <p>Ödeme, kargo ve iade Trendyol altyapısıyla; hızlı teslimat.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ INSTAGRAM ============ -->
+  <section class="section" id="insta">
+    <div class="wrap">
+      <div class="ig-head">
+        <div>
+          <span class="eyebrow">@safhobi</span>
+          <h2>Atölyeden kareler</h2>
+        </div>
+        <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" class="btn btn-sm">Takip Et</a>
+      </div>
+      <div class="ig-grid" id="igGrid"></div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <a href="#top" class="brand"><span class="brand-mark" aria-hidden="true">✳</span> Saf Hobi Atölye</a>
+    <div class="footer-links">
+      <a href="https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687" target="_blank" rel="noopener">Trendyol Mağazası</a>
+      <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener">Instagram</a>
+      <a href="#shop">Ürünler</a>
+    </div>
+    <p>© <span id="year"></span> Saf Hobi Atölye</p>
+    <p class="fine">Bu site bir portfolyo demosudur (tasarım & geliştirme: Uğur Cihan Çekiç). Ürün görselleri ve fiyatları Saf Hobi Atölye'nin Trendyol mağazasından otomatik çekilir; tüm satış, ödeme ve kargo işlemleri Trendyol üzerinden yapılır.</p>
+  </div>
+</footer>
+
+<!-- ============ QUICK VIEW MODAL ============ -->
+<div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel">
+    <button class="modal-close" data-close aria-label="Kapat">✕</button>
+    <div class="modal-media">
+      <img id="modalImg" src="" alt="">
+      <div class="modal-thumbs" id="modalThumbs"></div>
+    </div>
+    <div class="modal-info">
+      <span class="card-cat" id="modalCat"></span>
+      <h3 id="modalTitle"></h3>
+      <div class="card-rating" id="modalRating"></div>
+      <div class="card-price" id="modalPrice"></div>
+      <p class="modal-note">Bu ürün Saf Hobi Atölye tarafından üretilir ve Trendyol üzerinden satılır. Butona bastığında ürünün Trendyol sayfası yeni sekmede açılır.</p>
+      <a class="btn btn-block" id="modalBuy" href="#" target="_blank" rel="noopener" data-buy>Trendyol'da Satın Al ↗</a>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

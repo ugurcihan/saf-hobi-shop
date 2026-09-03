@@ -1,0 +1,11 @@
+{
+  "name": "saf-hobi-shop",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-trendyol.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.62.1"
+  }
+}
