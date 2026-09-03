@@ -45,10 +45,24 @@ ugurcihancekic.com gibi **scroll-scrub**: pinlenmiş hero'da scroll ilerledikçe
 (resmi IG API'si pratik değil). Gerçek gönderi görsellerini
 `assets/ig/` altına koyup listeyi değiştir.
 
+## Otomatik katalog senkronu
+
+Trendyol'un Cloudflare koruması GitHub Actions'ın veri merkezi IP'lerini
+engelliyor. Bu yüzden günlük senkron **yerel makinede** çalışır:
+
+- `scripts/sync-and-push.sh` — scrape + değişiklik varsa commit + push
+- `~/Library/LaunchAgents/com.safhobi.catalog-sync.plist` — her gün 06:00
+- push → Vercel Git entegrasyonu otomatik production deploy
+
+Elle: `bash scripts/sync-and-push.sh`  ·  log: `scripts/sync.log`
+launchd: `launchctl unload/load ~/Library/LaunchAgents/com.safhobi.catalog-sync.plist`
+
+`.github/workflows/sync-products.yml` yalnızca manuel tetik (CF bulutu engelliyor).
+
 ## Deploy
 
-Kendi Vercel projesi. Kök `vercel.json` `cleanUrls` + asset cache header'ları
-ayarlar. Ana portfolyodan `data-live` ile proje kartına bağlanır.
+GitHub repo'ya bağlı Vercel projesi — `main`'e her push production'a çıkar.
+Kök `vercel.json` `cleanUrls` + asset cache header'ları ayarlar.
 
 ## Not — Trendyol ToS
 
