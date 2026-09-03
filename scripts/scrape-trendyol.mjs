@@ -12,8 +12,9 @@
  * Scrape 0 ürün döndürürse veya patlarsa: mevcut products.json'a DOKUNMAZ
  * (fallback). Böylece site her zaman son iyi kataloğu gösterir.
  *
- * Kullanım:  node scripts/scrape-trendyol.mjs
- * Ortam:     playwright-core + sistemde Google Chrome kurulu olmalı
+ * Kullanım:  node scripts/scrape-trendyol.mjs      (yerelde: Google Chrome kanalı)
+ *            PLAYWRIGHT_CHANNEL=chromium node ... (CI: playwright chromium)
+ *            PLAYWRIGHT_HEADLESS=1 ...            (pencere açma; CF'yi tetikleyebilir)
  */
 import { chromium } from 'playwright-core';
 import { writeFile, mkdir, readFile, unlink } from 'node:fs/promises';
