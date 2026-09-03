@@ -43,7 +43,7 @@
 <nav class="nav" id="nav" aria-label="Ana menü">
   <div class="wrap nav-inner">
     <a href="#top" class="brand">
-      <span class="brand-mark" aria-hidden="true">✳</span>
+      <img class="brand-mark" src="assets/logo.webp" alt="" width="40" height="40">
       Saf Hobi Atölye
     </a>
     <div class="nav-links">
@@ -55,27 +55,31 @@
   </div>
 </nav>
 
+<div class="ambient-bg" id="ambientBg" aria-hidden="true"></div>
+
 <main id="top">
 
-  <!-- ============ HERO (warm) ============ -->
+  <!-- ============ HERO — scroll-scrubbed video ============ -->
   <header class="hero" id="hero">
-    <div class="hero-media" id="heroMedia">
-      <img src="assets/mandala-hero.svg" alt="" id="heroPoster">
-      <!-- Video üretince: data-src="assets/hero-loop" ekle → JS .webm/.mp4'ü bağlar -->
-      <video muted loop playsinline id="heroVideo" hidden></video>
-    </div>
-    <div class="hero-glow" aria-hidden="true"></div>
-    <div class="hero-content">
-      <p class="hero-kicker">El Yapımı · Trendyol Mağazası</p>
-      <h1>Işıkla nefes alan <em>mandala</em> dekorlar</h1>
-      <p class="lead">Her biri elde çizilen, tek tek üretilen aydınlatma ve objeler. Beğendiğini seç, Trendyol'dan güvenle al.</p>
-      <div class="hero-actions">
-        <a href="#shop" class="btn">Koleksiyonu Keşfet</a>
-        <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" class="btn btn-warm">Instagram'da Gör</a>
+    <div class="hero-pin">
+      <video class="hero-vid" id="heroVid" muted playsinline preload="auto"
+             poster="assets/hero-poster.webp" aria-hidden="true">
+        <source src="assets/hero.mp4" type="video/mp4">
+      </video>
+      <div class="hero-scrim" aria-hidden="true"></div>
+      <div class="hero-overlay" id="heroOverlay">
+        <div class="hero-content">
+          <p class="hero-kicker">El Yapımı · Trendyol Mağazası</p>
+          <h1>Işıkla nefes alan <em>mandala</em> dekorlar</h1>
+          <p class="lead">Her biri elde çizilen, tek tek üretilen aydınlatma ve objeler. Beğendiğini seç, Trendyol'dan güvenle al.</p>
+          <div class="hero-actions">
+            <a href="#shop" class="btn">Koleksiyonu Keşfet</a>
+            <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" class="btn btn-warm">Instagram'da Gör</a>
+          </div>
+        </div>
+        <p class="scroll-hint" id="scrollHint" aria-hidden="true">aşağı kaydır ↓</p>
       </div>
     </div>
-    <p class="scroll-hint" aria-hidden="true">aşağı kaydır ↓</p>
-    <div class="hero-fade" aria-hidden="true"></div>
   </header>
 
   <!-- ============ SHOP (pink) ============ -->
@@ -161,7 +165,7 @@
 
 <footer class="footer">
   <div class="wrap">
-    <a href="#top" class="brand"><span class="brand-mark" aria-hidden="true">✳</span> Saf Hobi Atölye</a>
+    <a href="#top" class="brand"><img class="brand-mark" src="assets/logo.webp" alt="" width="40" height="40"> Saf Hobi Atölye</a>
     <div class="footer-links">
       <a href="https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687" target="_blank" rel="noopener">Trendyol Mağazası</a>
       <a href="https://www.instagram.com/safhobi" target="_blank" rel="noopener">Instagram</a>

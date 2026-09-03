@@ -20,8 +20,7 @@
   /* ---------- boot ---------- */
   $('#year').textContent = new Date().getFullYear();
   initNav();
-  initHeroSparkles();
-  initHeroVideo();
+  initHeroScrub();
 
   fetch('products.json', { cache: 'no-cache' })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
@@ -306,38 +305,63 @@
     addEventListener('scroll', onScroll, { passive: true });
   }
 
-  /* ---------- hero sparkles ---------- */
-  function initHeroSparkles() {
-    if (reduceMotion) return;
+  /* ---------- hero: scroll-scrubbed mandala video ----------
+     ugurcihancekic.com hero'su gibi: pinlenmiş bölümde scroll ilerledikçe
+     video frame frame ilerler; hero biterken son kare kalıcı arka plan
+     (#ambientBg) olarak devreye girer, mağaza onun üstünde akar. */
+  function initHeroScrub() {
     const hero = $('#hero');
-    const glyphs = ['✦', '✧', '·', '✳'];
-    for (let i = 0; i < 14; i++) {
-      const s = document.createElement('span');
-      s.className = 'spark';
-      s.textContent = glyphs[i % glyphs.length];
-      s.style.left = Math.random() * 100 + '%';
-      s.style.fontSize = 8 + Math.random() * 14 + 'px';
-      s.style.animationDuration = 7 + Math.random() * 8 + 's';
-      s.style.animationDelay = -Math.random() * 12 + 's';
-      hero.appendChild(s);
-    }
-  }
+    const vid = $('#heroVid');
+    const overlay = $('#heroOverlay');
+    const hint = $('#scrollHint');
+    const ambient = $('#ambientBg');
+    if (!hero || !vid) return;
 
-  /* ---------- hero video ----------
-     assets/hero-loop.(webm|mp4) VARSA yükle, yoksa mandala poster'ında kal.
-     Böylece dosya yoksa 404 gürültüsü olmaz. (bkz. VIDEO-PROMPT.md) */
-  function initHeroVideo() {
-    const v = $('#heroVideo');
-    if (!v || reduceMotion || !v.dataset.src) return;
-    const base = v.dataset.src.replace(/\.(webm|mp4)$/, '');
-    [['webm', 'video/webm'], ['mp4', 'video/mp4']].forEach(([ext, type]) => {
-      const s = document.createElement('source');
-      s.src = `${base}.${ext}`; s.type = type;
-      v.appendChild(s);
+    if (reduceMotion) {
+      ambient && ambient.classList.add('visible');
+      return; // poster karesi yeterli
+    }
+
+    let duration = 6, target = 0, current = 0, metaReady = false;
+
+    vid.addEventListener('loadedmetadata', () => {
+      duration = vid.duration || 6;
+      metaReady = true;
+      compute();
     });
-    v.addEventListener('canplay', () => { v.hidden = false; v.play().catch(() => {}); }, { once: true });
-    v.addEventListener('error', () => { v.hidden = true; }, true);
-    v.load();
+    // iOS Safari: seek edebilmek için önce bir play/pause şart
+    vid.play().then(() => vid.pause()).catch(() => {});
+    vid.load();
+
+    function compute() {
+      const scrollable = hero.offsetHeight - innerHeight;
+      if (scrollable <= 0) return;
+      const p = Math.min(1, Math.max(0, -hero.getBoundingClientRect().top / scrollable));
+      target = p * duration;
+      if (overlay) {
+        overlay.style.opacity = String(Math.max(0, 1 - p / 0.16));
+        overlay.style.transform = `translateY(${(p * -48).toFixed(1)}px)`;
+      }
+      if (hint) hint.style.opacity = p < 0.04 ? '1' : '0';
+      if (ambient) ambient.classList.toggle('visible', p >= 0.88);
+    }
+
+    let ticking = false;
+    addEventListener('scroll', () => {
+      if (!ticking) { ticking = true; requestAnimationFrame(() => { ticking = false; compute(); }); }
+    }, { passive: true });
+    addEventListener('resize', compute);
+
+    function frame() {
+      current += (target - current) * 0.18;
+      if (Math.abs(target - current) < 0.004) current = target;
+      if (metaReady && vid.readyState >= 1 && !vid.seeking) {
+        try { vid.currentTime = current; } catch (e) {}
+      }
+      requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+    compute();
   }
 
   /* ---------- instagram strip ----------

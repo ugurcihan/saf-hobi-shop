@@ -1,69 +1,48 @@
-# Hero intro videosu — üretim promptu
+# Hero videosu
 
-Hedef: karanlık bir odada duran mandala LED lamba, görünmez bir elin taşıdığı
-sıcak ışık topu (mouse/torch) duvarda gezindikçe mandalanın deseni ve arka
-ışığı **titreyerek yanıp sönüyor**, sonunda tüm mandala sabit parlamaya geçiyor
-(statik arka plana yumuşak geçiş). Kusursuz loop, 6 sn.
+Hero, **scroll ile frame frame ilerleyen** bir video (ugurcihancekic.com hero'su gibi).
+Bölüm pinlenir, scroll ilerledikçe `video.currentTime` scroll ilerlemesine bağlanır;
+hero biterken son kare kalıcı arka plana (`#ambientBg`) devredilir ve mağaza onun
+üstünde akar. Mantık `app.js > initHeroScrub()`.
 
-Çıktı: `assets/hero-loop.mp4` (H.264) + `assets/hero-loop.webm` (VP9/AV1),
-~1-2 MB, sayfaya kendiliğinden bağlanır. Poster olarak `assets/mandala-hero.svg`
-(veya kendi fotoğrafını `assets/mandala-hero.jpg` koyup `index.html`'de
-`#heroPoster` src'sini değiştir).
+## Şu anki asset
 
----
+- `assets/hero.mp4` — 900px, ~2 MB, **all-intra H.264** (`-g 1 -keyint_min 1`).
+  All-intra şart: scroll seek'i anında olur, kare atlamaz.
+- `assets/hero-poster.webp` — video yüklenene kadar ilk kare.
+- `assets/hero-bg.webp` — son karenin koyulaştırılmış hali; `#ambientBg` bunu kullanır.
 
-## Ana prompt (EN — Sora / Kling / Veo 3 / Runway Gen-3)
+Kaynak: `bunu_canlandır_o_kadar_bunu_202609031640.mp4` (mandala lambaya yavaş zoom).
 
-```
-Cinematic macro shot of a circular hand-carved wooden mandala LED wall lamp
-mounted on a warm plaster wall in a dark, cozy room at night. A single soft
-handheld warm light source (2700K, like a small torch orb) drifts slowly
-across the wall from left to right, guided by an unseen hand. Wherever the
-light passes, the mandala's intricate fretwork and its back-glow flicker to
-life — LED filaments buzzing on and off with a gentle electrical stutter —
-then fade softly back into darkness a beat later. Warm amber bokeh, floating
-dust motes drifting through the light beam, out-of-focus houseplant leaves and
-a rattan basket in the foreground. Very slow camera push-in, shallow depth of
-field, anamorphic warmth, fine film grain, high dynamic range between deep
-shadow and glowing highlights. In the final second the entire mandala settles
-into a steady, even warm glow and the flicker stops. Seamless loop. No text,
-no visible people, no logos.
-
-Style: moody interior cinematography, A24, warm tungsten palette, 35mm.
-Duration: 6 seconds. Aspect ratio: 16:9. Camera: slow dolly-in. Loop: yes.
-```
-
-## Negatif prompt
-
-```
-harsh blue light, daylight, cool tones, cluttered background, text, watermark,
-logo, human face, hands fully visible, fast motion, jump cuts, cartoon,
-oversaturated pink, distorted mandala geometry, strobing seizure-level flashing
-```
-
-## 9:16 (mobil) varyantı
-
-Ana promptla aynı; şu iki satırı değiştir:
-
-```
-Aspect ratio: 9:16. Framing: mandala centered in the upper third, foreground
-plant in the lower third, extra vertical wall space above for a text overlay.
-```
-
-## Sıkıştırma
+## Videoyu değiştirmek istersen
 
 ```bash
-# mp4
-ffmpeg -i input.mp4 -t 6 -an -vf "scale=1600:-2" -c:v libx264 -crf 24 -preset veslow -movflags +faststart assets/hero-loop.mp4
-# webm
-ffmpeg -i input.mp4 -t 6 -an -vf "scale=1600:-2" -c:v libvpx-vp9 -crf 34 -b:v 0 assets/hero-loop.webm
+# all-intra, scroll-scrub için:
+ffmpeg -i yeni.mp4 -an -vf "scale=900:-2" -c:v libx264 -crf 27 \
+  -g 1 -keyint_min 1 -preset slow -pix_fmt yuv420p -movflags +faststart \
+  assets/hero.mp4
+
+# poster + arka plan:
+ffmpeg -sseof -0.1 -i yeni.mp4 -vframes 1 -vf "scale=1600:-2" last.jpg
+magick last.jpg -resize 1600x                         -quality 82 assets/hero-poster.jpg
+magick last.jpg -resize 1600x -fill '#17100b' -colorize 20% -quality 82 assets/hero-bg.jpg
+cwebp -q 80 assets/hero-poster.jpg -o assets/hero-poster.webp
+cwebp -q 78 assets/hero-bg.jpg -o assets/hero-bg.webp
 ```
 
-## Not
+`.hero { height: 320vh }` scrub uzunluğunu belirler — daha uzun video için artır.
+`prefers-reduced-motion` açık kullanıcılarda video hiç seek edilmez, poster + arka plan gösterilir.
 
-Epilepsi güvenliği: "titreme" yumuşak ve düşük frekanslı olmalı (saniyede 3
-parlamadan az). Prompt'taki `gentle electrical stutter` + negatiften
-`strobing seizure-level flashing` bunu sağlıyor; yine de üretilen videoyu
-kontrol et. Sitede `prefers-reduced-motion` açık kullanıcılara video hiç
-yüklenmez, sadece statik poster gösterilir.
+## Sıfırdan üretmek istersen (generative video promptu)
+
 ```
+Cinematic macro shot slowly pushing in on a circular hand-carved wooden mandala
+LED wall lamp on a warm plaster wall in a dark cozy room at night. Warm 2700K
+back-glow, intricate fretwork, soft amber bokeh, dust motes in the light, an
+out-of-focus houseplant and rattan basket in the foreground. The move is one
+continuous slow dolly-in from a wide shot (mandala small in frame) to a tight
+shot (mandala fills the frame, glowing). No people, no text, no logos.
+Style: moody A24 interior, warm tungsten, 35mm, fine grain. 6 seconds, 16:9,
+constant slow forward motion (no cuts).
+```
+Negatif: `cool light, daylight, text, watermark, people, fast motion, cuts, strobing`

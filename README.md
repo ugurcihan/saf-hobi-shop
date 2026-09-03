@@ -11,8 +11,9 @@ butonuyla ürün sayfasına yönlendirir).
 |---|---|
 | `index.html` / `style.css` / `app.js` | Statik vitrin (framework yok) |
 | `products.json` | Çekilen katalog — sitenin okuduğu tek veri kaynağı + fallback |
-| `assets/products/` | İndirilmiş ürün görselleri (`<id>-<n>.jpg`) |
-| `assets/mandala-hero.svg` | Hero arka planı için placeholder (gerçek foto/video gelene kadar) |
+| `assets/products/` | İndirilmiş ürün görselleri (`<id>-<n>.webp`) |
+| `assets/hero.mp4` | Scroll-scrub hero videosu (all-intra); `hero-poster/hero-bg.webp` eşlik eder |
+| `assets/logo.webp` | Saf Hobi Atölye logosu (nav + footer) |
 | `scripts/scrape-trendyol.mjs` | Trendyol scraper (playwright-core + Chrome) |
 | `.github/workflows/sync-products.yml` | Günlük cron → katalog güncelle → commit |
 
@@ -33,8 +34,9 @@ Ortam değişkenleri:
 
 ## Hero videosu
 
-`index.html` hero'da `assets/hero-loop.mp4` / `.webm` arar; yoksa
-`assets/mandala-hero.jpg` → `.svg` poster'ına düşer. Video promptu için
+ugurcihancekic.com gibi **scroll-scrub**: pinlenmiş hero'da scroll ilerledikçe
+`assets/hero.mp4` frame frame ilerler, biterken son kare kalıcı arka plana
+(`#ambientBg` = `assets/hero-bg.webp`) devredilir. Değiştirme/regenerate için
 [`VIDEO-PROMPT.md`](VIDEO-PROMPT.md).
 
 ## Instagram
