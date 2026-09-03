@@ -5,7 +5,7 @@
   "scripts": {
     "scrape": "node scripts/scrape-trendyol.mjs"
   },
-  "devDependencies": {
+  "dependencies": {
     "playwright-core": "^1.62.1"
   }
 }
