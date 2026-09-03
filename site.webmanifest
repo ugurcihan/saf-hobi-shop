@@ -1,0 +1,14 @@
+{
+  "name": "Saf Hobi Atölye",
+  "short_name": "Saf Hobi",
+  "description": "El yapımı mandala aydınlatma ve dekoratif objeler.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#15100b",
+  "theme_color": "#15100b",
+  "lang": "tr",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

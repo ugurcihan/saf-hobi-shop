@@ -26,11 +26,14 @@
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       state.all = (data.products || []).filter((p) => p.name && p.price);
+      const q = new URLSearchParams(location.search).get('q');
+      if (q) { state.q = q.trim(); $('#search').value = state.q; }
       buildChips(topCategories(state.all));
       wireControls();
       render();
       markStale(data.scrapedAt);
       buildInstagram(state.all);
+      injectProductSchema(state.all);
     })
     .catch((err) => {
       console.error('katalog yüklenemedi', err);
@@ -369,18 +372,56 @@
      görsellerini "atölyeden kareler" olarak gösteriyoruz. Gerçek
      gönderi görselleri için assets/ig/ ekleyip burayı değiştir. */
   function buildInstagram(products) {
-    const picks = products
+    // kategori başına en çok yorumlu 1 ürün → çeşitli bir ızgara
+    const byCat = new Map();
+    products
       .filter((p) => (p.localImages || []).length)
-      .sort((a, b) => (b.reviewCount || 0) - (a.reviewCount || 0))
-      .slice(0, 12)
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 8);
+      .sort((a, b) => (b.reviewCount || 0) - (a.reviewCount || 0) || (b.rating || 0) - (a.rating || 0))
+      .forEach((p) => { if (!byCat.has(p.category)) byCat.set(p.category, p); });
+    const picks = [...byCat.values()].slice(0, 8);
     $('#igGrid').innerHTML = picks
       .map(
         (p) =>
           `<a class="ig-cell" href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" aria-label="Saf Hobi Atölye Instagram"><img src="${img(p, 0)}" alt="" loading="lazy" onerror="this.closest('.ig-cell').remove()"></a>`
       )
       .join('');
+  }
+
+  /* ---------- ürün yapılandırılmış verisi (SEO) ---------- */
+  function injectProductSchema(products) {
+    const items = products.slice(0, 120).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Product',
+        name: p.name,
+        category: p.category,
+        image: new URL(img(p, 0), location.href).href,
+        url: p.url,
+        brand: { '@type': 'Brand', name: 'Saf Hobi Atölye' },
+        ...(p.rating && p.reviewCount
+          ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: p.rating, reviewCount: p.reviewCount } }
+          : {}),
+        offers: {
+          '@type': 'Offer',
+          price: p.price,
+          priceCurrency: 'TRY',
+          availability: 'https://schema.org/InStock',
+          url: p.url,
+          seller: { '@type': 'Organization', name: 'Saf Hobi Atölye' },
+        },
+      },
+    }));
+    const node = document.createElement('script');
+    node.type = 'application/ld+json';
+    node.textContent = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Saf Hobi Atölye Ürünleri',
+      numberOfItems: products.length,
+      itemListElement: items,
+    });
+    document.head.appendChild(node);
   }
 
   /* ---------- stale note ---------- */
