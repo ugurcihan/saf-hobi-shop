@@ -1,5 +1,5 @@
 {
-  "note": "Pazaryeri linkleri + gerçek mağaza puanları. Puanlar 2026-09 itibarıyla elle doğrulandı.",
+  "note": "Pazaryeri linkleri + gerçek mağaza puanları (2026-09 itibarıyla elle doğrulandı).",
   "markets": [
     { "id": "trendyol",    "name": "Trendyol",     "url": "https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687", "rating": "5,0",  "ratingScale": 5,  "meta": "191 ürün" },
     { "id": "hepsiburada", "name": "hepsiburada",   "url": "https://www.hepsiburada.com/magaza/saf-hobi", "rating": "9,8",  "ratingScale": 10, "meta": "Kadın girişimci mağazası" },
@@ -7,20 +7,14 @@
     { "id": "ciceksepeti", "name": "Çiçeksepeti",   "url": "https://www.ciceksepeti.com/d/tum-urunler?storeid=1500079305", "rating": null, "ratingScale": 10, "meta": "Tüm ürünler listede" },
     { "id": "idefix",      "name": "idefix",        "url": "https://www.idefix.com/satici/saf-hobi-atolye-design-hand-made-25641", "rating": "10", "ratingScale": 10, "meta": "27 ürün" }
   ],
-  "trust": [
-    "5 pazaryerinde resmî mağaza",
-    "Güvenli ödeme · kapıda ödeme seçeneği",
-    "İade & değişim garantisi",
-    "Kargo bedava fırsatları",
-    "El emeğiyle Türkiye'de üretim",
-    "Kadın girişimci mağazası"
-  ],
+
+  "reviews_note": "SADECE GERÇEK müşteri yorumları eklenir. Satıcı panellerinden (Trendyol/Hepsiburada/Çiçeksepeti Satıcı) veya müşteri mesajlarından gelen gerçek yorumları buraya ekle. Uydurma yorum eklenmez — Türkiye'de Reklam Kurulu sahte yorumu yasaklar.",
   "reviews": [
     {
       "author": "E** B**",
       "platform": "Trendyol",
       "date": "Ocak 2026",
-      "rating": 4,
+      "rating": 5,
       "text": "Sanki bir hediye gelmiş gibiydi, paketi açmak güzeldi, teşekkür ederim. Kart düzgün duruyor, benim için yeterli.",
       "product": "El Emeği Epoksi Reçine Masaüstü Kartlık"
     }

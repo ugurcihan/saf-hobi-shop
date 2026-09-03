@@ -429,27 +429,52 @@
             .join('');
         }
 
-        // güven şeridi (sola akan marquee)
+        // müşteri yorumları şeridi (sola akan)
         const track = $('#trustTrack');
-        if (track) {
-          const items = [];
-          markets.filter((m) => m.rating).forEach((m) =>
-            items.push(
-              `<div class="chip-trust is-rating"><span class="mk mk-${m.id}" style="font-size:.85rem">${esc(m.name)}</span> <span class="val"><span class="star">★</span> ${esc(m.rating)}/${m.ratingScale || 10}</span></div>`
-            )
-          );
-          (d.trust || []).forEach((t) =>
-            items.push(`<div class="chip-trust"><span class="ic">✓</span> ${esc(t)}</div>`)
-          );
-          (d.reviews || []).forEach((rv) =>
-            items.push(
-              `<div class="chip-trust is-review"><b>${'★'.repeat(rv.rating)}${'☆'.repeat(5 - rv.rating)} · ${esc(rv.author)} · ${esc(rv.platform)}</b>“${esc(rv.text)}”</div>`
-            )
-          );
-          // kesintisiz döngü için 2 kez
-          const html = items.join('');
-          track.innerHTML = html + html;
-          track.setAttribute('aria-hidden', 'false');
+        const reviews = d.reviews || [];
+        if (track && reviews.length) {
+          $('#reviewsTitle').hidden = false;
+          const PALETTE = [
+            ['rgba(255,111,174,0.28)', 'rgba(255,140,187,0.55)'],
+            ['rgba(244,183,64,0.26)', 'rgba(244,183,64,0.5)'],
+            ['rgba(120,200,255,0.24)', 'rgba(120,200,255,0.5)'],
+            ['rgba(150,230,170,0.24)', 'rgba(150,230,170,0.5)'],
+            ['rgba(200,150,255,0.26)', 'rgba(200,150,255,0.5)'],
+            ['rgba(255,160,120,0.26)', 'rgba(255,160,120,0.5)'],
+          ];
+          const card = (rv, i) => {
+            const [a, b] = PALETTE[i % PALETTE.length];
+            const r = Math.max(1, Math.min(5, rv.rating || 5));
+            const initials = (rv.author || '?').replace(/[^A-Za-zÇĞİÖŞÜçğıöşü* ]/g, '').split(/\s+/).map((s) => s[0]).slice(0, 2).join('').toUpperCase();
+            return `
+              <figure class="review-card" style="--rv-a:${a};--rv-b:${b}">
+                <div class="rv-stars" aria-label="${r} / 5">${'★'.repeat(r)}${'☆'.repeat(5 - r)}</div>
+                <blockquote class="rv-text">${esc(rv.text)}</blockquote>
+                <figcaption class="rv-foot">
+                  <span class="rv-avatar" aria-hidden="true">${esc(initials || '★')}</span>
+                  <span class="rv-plat">${esc(rv.author || 'Müşteri')}</span>
+                  <span>· ${esc(rv.platform || '')}</span>
+                  <span class="rv-date">${esc(rv.date || '')}</span>
+                </figcaption>
+              </figure>`;
+          };
+          const base = reviews.map(card).join('');
+          if (reviews.length < 4) {
+            // az yorum: akıtma yok, tek sefer, ortala
+            track.innerHTML = base;
+            track.style.animation = 'none';
+            track.style.width = 'auto';
+            track.style.justifyContent = 'center';
+            track.style.flexWrap = 'wrap';
+            $('#trustMarquee').style.overflow = 'visible';
+          } else {
+            // yeterli yorum: kesintisiz döngü için 2 kez
+            track.innerHTML = base + base;
+            const secs = Math.max(24, reviews.length * 6);
+            track.style.animationDuration = secs + 's';
+          }
+        } else if (track) {
+          $('#trustMarquee').remove();
         }
       })
       .catch((e) => {
