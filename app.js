@@ -373,17 +373,23 @@
      görsellerini "atölyeden kareler" olarak gösteriyoruz. Gerçek
      gönderi görselleri için assets/ig/ ekleyip burayı değiştir. */
   function buildInstagram(products) {
-    // kategori başına en çok yorumlu 1 ürün → çeşitli bir ızgara
+    // kategori başına en çeşitli ürünler → 3x3 ızgara
     const byCat = new Map();
     products
       .filter((p) => (p.localImages || []).length)
       .sort((a, b) => (b.reviewCount || 0) - (a.reviewCount || 0) || (b.rating || 0) - (a.rating || 0))
       .forEach((p) => { if (!byCat.has(p.category)) byCat.set(p.category, p); });
-    const picks = [...byCat.values()].slice(0, 8);
+    let picks = [...byCat.values()];
+    if (picks.length < 9) {
+      const extra = products.filter((p) => (p.localImages || []).length && !picks.includes(p));
+      picks = picks.concat(extra).slice(0, 9);
+    } else {
+      picks = picks.slice(0, 9);
+    }
     $('#igGrid').innerHTML = picks
       .map(
         (p) =>
-          `<a class="ig-cell" href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" aria-label="Saf Hobi Atölye Instagram"><img src="${img(p, 0)}" alt="" loading="lazy" onerror="this.closest('.ig-cell').remove()"></a>`
+          `<a class="ig-cell" href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" aria-label="${esc(p.name)}"><img src="${img(p, 0)}" alt="" loading="lazy" onerror="this.closest('.ig-cell').remove()"><span class="ig-heart" aria-hidden="true">♥</span></a>`
       )
       .join('');
   }
