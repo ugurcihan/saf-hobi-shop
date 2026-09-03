@@ -1,0 +1,6 @@
+node_modules
+scripts
+.github
+probe*.mjs
+*.md
+!README.md
