@@ -21,6 +21,7 @@
   $('#year').textContent = new Date().getFullYear();
   initNav();
   initHeroScrub();
+  buildMarkets();
 
   fetch('products.json', { cache: 'no-cache' })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
@@ -385,6 +386,76 @@
           `<a class="ig-cell" href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" aria-label="Saf Hobi Atölye Instagram"><img src="${img(p, 0)}" alt="" loading="lazy" onerror="this.closest('.ig-cell').remove()"></a>`
       )
       .join('');
+  }
+
+  /* ---------- pazaryerleri + güven şeridi ---------- */
+  function buildMarkets() {
+    fetch('marketplaces.json', { cache: 'no-cache' })
+      .then((r) => r.json())
+      .then((d) => {
+        const markets = d.markets || [];
+        const MK_COLOR = { trendyol: '#f27a1a', hepsiburada: '#ff6000', n11: '#ff3d6a', ciceksepeti: '#e5006d', idefix: '#e8483a' };
+
+        // hero altı: kısa pazaryeri şeridi
+        const hero = $('#heroMarkets');
+        if (hero) {
+          hero.innerHTML =
+            '<span class="mk-label">Bizi bulabileceğiniz yerler</span>' +
+            markets
+              .map(
+                (m) =>
+                  `<a class="mk mk-${m.id}" href="${m.url}" target="_blank" rel="noopener">${esc(m.name)}</a>`
+              )
+              .join('');
+        }
+
+        // markets bölümü: kart ızgarası
+        const cards = $('#marketCards');
+        if (cards) {
+          cards.innerHTML = markets
+            .map((m) => {
+              const scale = m.ratingScale || 10;
+              const head = m.rating
+                ? `<div class="mk-rating"><span class="star">★</span> ${esc(m.rating)} <span>/ ${scale}</span></div>`
+                : `<div class="mk-rating" style="font-size:1.05rem">Resmî mağaza</div>`;
+              return `
+                <a class="market-card mk-${m.id}" style="--mk:${MK_COLOR[m.id] || '#ff6fae'}" href="${m.url}" target="_blank" rel="noopener">
+                  <span class="mk mk-${m.id}">${esc(m.name)}</span>
+                  ${head}
+                  <span class="mk-meta">${esc(m.meta || '')}</span>
+                  <span class="mk-go">Mağazayı aç ↗</span>
+                </a>`;
+            })
+            .join('');
+        }
+
+        // güven şeridi (sola akan marquee)
+        const track = $('#trustTrack');
+        if (track) {
+          const items = [];
+          markets.filter((m) => m.rating).forEach((m) =>
+            items.push(
+              `<div class="chip-trust is-rating"><span class="mk mk-${m.id}" style="font-size:.85rem">${esc(m.name)}</span> <span class="val"><span class="star">★</span> ${esc(m.rating)}/${m.ratingScale || 10}</span></div>`
+            )
+          );
+          (d.trust || []).forEach((t) =>
+            items.push(`<div class="chip-trust"><span class="ic">✓</span> ${esc(t)}</div>`)
+          );
+          (d.reviews || []).forEach((rv) =>
+            items.push(
+              `<div class="chip-trust is-review"><b>${'★'.repeat(rv.rating)}${'☆'.repeat(5 - rv.rating)} · ${esc(rv.author)} · ${esc(rv.platform)}</b>“${esc(rv.text)}”</div>`
+            )
+          );
+          // kesintisiz döngü için 2 kez
+          const html = items.join('');
+          track.innerHTML = html + html;
+          track.setAttribute('aria-hidden', 'false');
+        }
+      })
+      .catch((e) => {
+        console.warn('marketplaces.json yüklenemedi', e);
+        $('#markets')?.remove();
+      });
   }
 
   /* ---------- ürün yapılandırılmış verisi (SEO) ---------- */
