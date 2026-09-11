@@ -8,7 +8,16 @@
     { "id": "idefix",      "name": "idefix",        "url": "https://www.idefix.com/satici/saf-hobi-atolye-design-hand-made-25641", "rating": "10", "ratingScale": 10, "meta": "27 ürün" }
   ],
 
-  "reviews_note": "SADECE GERÇEK müşteri yorumları eklenir. Satıcı panellerinden (Trendyol/Hepsiburada/Çiçeksepeti Satıcı) veya müşteri mesajlarından gelen gerçek yorumları buraya ekle. Uydurma yorum eklenmez — Türkiye'de Reklam Kurulu sahte yorumu yasaklar.",
+  "google": {
+    "note": "Google İşletme Profili — fiziksel adres, gerçek yorumlar.",
+    "name": "SAF HOBİ ATÖLYE DESIGN",
+    "address": "Altıntepe, Galipbey Cad. Örnek Palas Apt No:10B Dükkan 12, 34840 Maltepe/İstanbul",
+    "rating": "5,0",
+    "reviewCount": 3,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saf+Hobi+Atölye+Design%2C+Galipbey+Caddesi+10B%2C+Maltepe%2F%C4%B0stanbul"
+  },
+
+  "reviews_note": "SADECE GERÇEK müşteri yorumları eklenir. Satıcı panellerinden veya Google yorumlarından gelen gerçek metinleri buraya ekle. Uydurma yorum eklenmez — Türkiye'de Reklam Kurulu sahte yorumu yasaklar.",
   "reviews": [
     {
       "author": "E** B**",
@@ -17,6 +26,27 @@
       "rating": 5,
       "text": "Sanki bir hediye gelmiş gibiydi, paketi açmak güzeldi, teşekkür ederim. Kart düzgün duruyor, benim için yeterli.",
       "product": "El Emeği Epoksi Reçine Masaüstü Kartlık"
+    },
+    {
+      "author": "Uğur Cihan C.",
+      "platform": "Google",
+      "date": "Eylül 2026",
+      "rating": 5,
+      "text": "Arkadaşıma çok özel bir hediye aldım, bayıldı. Mağaza çok kaliteli, ürünler birbirinden güzel. Mutlaka uğrayın."
+    },
+    {
+      "author": "Yeşim R.",
+      "platform": "Google",
+      "date": "Mayıs 2026",
+      "rating": 5,
+      "text": "Tatlı objeler ve en güzeli dünyada tek olduğunu bilmek, ustası istese bile yaptığı bir objenin aynısını tekrar yapamıyor. Butik hediyelikler, ben çok sevdim 🙏👍"
+    },
+    {
+      "author": "Armağan Bahadır E.",
+      "platform": "Google",
+      "date": "Mayıs 2026",
+      "rating": 5,
+      "text": "Bundan sonra \"aklıma eşsiz hediyelik eşya\" ve \"nadir parçalar\" nereden bulurum sorusuna cevap bulacağım en iyi adres. Emeğinize sağlık. 👏👏"
     }
   ]
 }
