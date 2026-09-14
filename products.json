@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-13T03:14:32.479Z",
+  "scrapedAt": "2026-09-14T03:30:48.375Z",
   "store": {
     "name": "Saf Hobi Atölye",
     "trendyol": "https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687",
@@ -130,9 +130,9 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Anahtarlık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/airtag-uyumlu-3d-baski-doner-kapakli-anahtarlik-kilifi-p-1192803840",
-      "price": 171,
-      "originalPrice": 200,
-      "priceText": "170,92",
+      "price": 200,
+      "originalPrice": null,
+      "priceText": "200",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
@@ -843,35 +843,6 @@
       ]
     },
     {
-      "id": 982483595,
-      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
-      "brand": "Genel Markalar",
-      "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982483595",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/24f306e9-1af3-361b-9614-3c455d8d7674/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/bbc40958-9563-3583-8cc3-fda33841142b/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/11/ca24a91d-8cf1-3733-aacd-b0c333041bdf/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/982483595-0.webp",
-        "assets/products/982483595-1.webp",
-        "assets/products/982483595-2.webp"
-      ]
-    },
-    {
       "id": 979550237,
       "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
       "brand": "SAF HOBİ",
@@ -1042,6 +1013,35 @@
         "assets/products/982484662-0.webp",
         "assets/products/982484662-1.webp",
         "assets/products/982484662-2.webp"
+      ]
+    },
+    {
+      "id": 982483595,
+      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
+      "brand": "Genel Markalar",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982483595",
+      "price": 350,
+      "originalPrice": null,
+      "priceText": "350",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava",
+        "Kupon Fırsatı",
+        "4 Al 3 Öde"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/24f306e9-1af3-361b-9614-3c455d8d7674/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/bbc40958-9563-3583-8cc3-fda33841142b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/11/ca24a91d-8cf1-3733-aacd-b0c333041bdf/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/982483595-0.webp",
+        "assets/products/982483595-1.webp",
+        "assets/products/982483595-2.webp"
       ]
     },
     {
@@ -3092,9 +3092,9 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/rode-videomic-pro-profesyonel-kamera-ustu-shotgun-mikrofon-p-1192813394",
-      "price": 20368,
-      "originalPrice": 23000,
-      "priceText": "20.367,65",
+      "price": 23000,
+      "originalPrice": null,
+      "priceText": "23.000",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
@@ -3987,35 +3987,6 @@
       ]
     },
     {
-      "id": 1135010609,
-      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
-      "brand": "SAF HOBİ",
-      "category": "Omuz Çantası",
-      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135010609",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1858/prod/QC_PREP/20260418/19/2d13168e-9753-3fca-8c62-2e91d6d9bd59/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/8fd856ec-f449-3eee-92d4-0ec21ca891ad/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/2f347d34-2e15-3d12-980f-989110d675ce/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1135010609-0.webp",
-        "assets/products/1135010609-1.webp",
-        "assets/products/1135010609-2.webp"
-      ]
-    },
-    {
       "id": 1135011972,
       "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
       "brand": "SAF HOBİ",
@@ -4042,6 +4013,35 @@
         "assets/products/1135011972-0.webp",
         "assets/products/1135011972-1.webp",
         "assets/products/1135011972-2.webp"
+      ]
+    },
+    {
+      "id": 1135010609,
+      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
+      "brand": "SAF HOBİ",
+      "category": "Omuz Çantası",
+      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135010609",
+      "price": 450,
+      "originalPrice": null,
+      "priceText": "450",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava",
+        "Kupon Fırsatı",
+        "4 Al 3 Öde"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1858/prod/QC_PREP/20260418/19/2d13168e-9753-3fca-8c62-2e91d6d9bd59/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/8fd856ec-f449-3eee-92d4-0ec21ca891ad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/2f347d34-2e15-3d12-980f-989110d675ce/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1135010609-0.webp",
+        "assets/products/1135010609-1.webp",
+        "assets/products/1135010609-2.webp"
       ]
     },
     {
@@ -4191,16 +4191,16 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Oto Güneşlik Perde",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/arac-guneslik-yan-uzatma-aparati-ayarlanabilir-ek-gunes-koruyucu-3d-baski-yeni-gelistirilmis-versiyonu-p-1192757755",
-      "price": 548,
-      "originalPrice": 650,
-      "priceText": "547,82",
+      "price": 650,
+      "originalPrice": null,
+      "priceText": "650",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
         "Kargo Bedava",
-        "Kupon Fırsatı",
+        "50 TL Kupon",
         "4 Al 3 Öde"
       ],
       "images": [
@@ -4945,30 +4945,6 @@
       ]
     },
     {
-      "id": 1175726676,
-      "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Tükenmez Kalem",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726676",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1900/prod/QC_PREP/20260724/23/3917e686-dbf6-3180-bbe5-d2e2036e7886/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1175726676-0.webp"
-      ]
-    },
-    {
       "id": 1175726650,
       "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
@@ -5014,6 +4990,30 @@
       ],
       "localImages": [
         "assets/products/1175726604-0.webp"
+      ]
+    },
+    {
+      "id": 1175726676,
+      "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Tükenmez Kalem",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726676",
+      "price": 220,
+      "originalPrice": null,
+      "priceText": "220",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [
+        "Kupon Fırsatı",
+        "4 Al 3 Öde"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1900/prod/QC_PREP/20260724/23/3917e686-dbf6-3180-bbe5-d2e2036e7886/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1175726676-0.webp"
       ]
     },
     {
