@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-21T04:46:22.910Z",
+  "scrapedAt": "2026-09-28T03:06:03.197Z",
   "store": {
     "name": "Saf Hobi Atölye",
     "trendyol": "https://www.trendyol.com/magaza/saf-hobi-atolye-design-hand-made-m-1161687",
     "instagram": "https://www.instagram.com/safhobi"
   },
-  "total": 204,
+  "total": 212,
   "categories": [
     "Abiye Çanta",
     "Anahtarlık",
@@ -19,8 +19,10 @@
     "Cüzdan",
     "Çay & Kahve Makinesi Aksesuar",
     "Çelik Kolye",
+    "Çelik Küpe",
     "Dekoratif Obje ve Biblo",
     "Dekoratif Tabak & Kase",
+    "Diğer Oyun Takımları",
     "Duvar Dekorasyon Ürünü",
     "Foto & Kamera Aksesuarı",
     "Kalem Kutusu",
@@ -48,7 +50,6 @@
     "Olta Makinesi",
     "Omuz Çantası",
     "Oto Güneşlik Perde",
-    "Oyuncak Araba",
     "Oyuncu Kulaklık",
     "Paten",
     "Peluş Oyuncak",
@@ -77,17 +78,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Abiye Çanta",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/hasir-dokulu-taba-kapakli-mini-telefon-cantasi-kedi-figurlu-inci-detayli-p-1200855134",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260918/00/2582344d-d578-333d-ac20-5d18c714f2bf/1_org_zoom.jpg"
@@ -102,17 +101,15 @@
       "brand": "SAF HOBİ",
       "category": "Abiye Çanta",
       "url": "https://www.trendyol.com/saf-hobi/ozel-tasarim-tasli-abiye-canta-el-yapimi-sik-gece-cantasi-p-1141112476",
-      "price": 1850,
-      "originalPrice": null,
-      "priceText": "1.850",
+      "price": 1665,
+      "originalPrice": 1850,
+      "priceText": "1.665",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1923/prod/QC_PREP/20260502/12/0f8ebbdf-b13e-3e87-a33d-79968606383a/1_org_zoom.jpg",
@@ -129,17 +126,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Anahtarlık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/airtag-uyumlu-3d-baski-doner-kapakli-anahtarlik-kilifi-p-1192803840",
-      "price": 200,
+      "price": 180,
       "originalPrice": null,
-      "priceText": "200",
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1947/prod/QC_PREP/20260828/19/76ba78cf-8989-3f18-9945-86061cbbfa26/1_org_zoom.jpg"
       ],
@@ -148,46 +142,19 @@
       ]
     },
     {
-      "id": 1201450454,
-      "name": "AirTag Uyumlu Döndürmeli Kilitli 3D Baskı Koruyucu Anahtarlık",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Anahtarlık",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/airtag-uyumlu-dondurmeli-kilitli-3d-baski-koruyucu-anahtarlik-p-1201450454",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260919/14/e91441a3-cbeb-30e1-b3b3-e80c1fff4b7a/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1201450454-0.webp"
-      ]
-    },
-    {
       "id": 1201450480,
       "name": "AirTag Uyumlu Döndürmeli Kilitli 3D Baskı Koruyucu Anahtarlık",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Anahtarlık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/airtag-uyumlu-dondurmeli-kilitli-3d-baski-koruyucu-anahtarlik-p-1201450480",
-      "price": 200,
+      "price": 180,
       "originalPrice": null,
-      "priceText": "200",
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260919/14/e5f18520-baab-3362-99fa-5053d070a074/1_org_zoom.jpg"
       ],
@@ -196,22 +163,40 @@
       ]
     },
     {
+      "id": 1201450454,
+      "name": "AirTag Uyumlu Döndürmeli Kilitli 3D Baskı Koruyucu Anahtarlık",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Anahtarlık",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/airtag-uyumlu-dondurmeli-kilitli-3d-baski-koruyucu-anahtarlik-p-1201450454",
+      "price": 180,
+      "originalPrice": null,
+      "priceText": "180",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260919/14/e91441a3-cbeb-30e1-b3b3-e80c1fff4b7a/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1201450454-0.webp"
+      ]
+    },
+    {
       "id": 1155414216,
       "name": "Nefes Egzersiz Anahtarlığı – Taşınabilir Sakinleşme ve Odaklanma Aparatı",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Anahtarlık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/nefes-egzersiz-anahtarligi-tasinabilir-sakinlesme-ve-odaklanma-aparati-p-1155414216",
-      "price": 295,
-      "originalPrice": null,
-      "priceText": "295",
+      "price": 266,
+      "originalPrice": 295,
+      "priceText": "265,50",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1911/prod/QC_PREP/20260611/15/d88eb7eb-ccb3-3d49-abf5-f11c1a0134c7/1_org_zoom.jpg"
       ],
@@ -225,16 +210,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Aplik",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/mandala-isikli-duvar-dekoru-isiktan-daha-fazlasi-p-1189676687",
-      "price": 2100,
-      "originalPrice": 2250,
-      "priceText": "2.100",
+      "price": 2025,
+      "originalPrice": null,
+      "priceText": "2.025",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1945/prod/QC_PREP/20260821/17/da5223ff-dfbf-3978-a6ad-25fa8a78c6d3/1_org_zoom.jpg"
@@ -244,50 +228,20 @@
       ]
     },
     {
-      "id": 1201877735,
-      "name": "3D Baskı RGB LED’li Mandala Duvar Dekoru – Işıklı Dekoratif Pano",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Aplik",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/3d-baski-rgb-led-li-mandala-duvar-dekoru-isikli-dekoratif-pano-p-1201877735",
-      "price": 2750,
-      "originalPrice": null,
-      "priceText": "2.750",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260920/22/f2eec0af-ff26-3206-8d51-7d415681ea8a/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/22/31ac5915-4f53-38e1-b456-5c5a6843b0b2/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/22/855ca910-5d95-3a68-820b-2f9309b80c7f/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1201877735-0.webp",
-        "assets/products/1201877735-1.webp",
-        "assets/products/1201877735-2.webp"
-      ]
-    },
-    {
       "id": 1168626059,
       "name": "🚗 Dökülmeyen Araç İçecek Tutucu (Gimbal Bardaklık)",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Araç İçi Organizer",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/dokulmeyen-arac-icecek-tutucu-gimbal-bardaklik-p-1168626059",
       "price": 405,
-      "originalPrice": 450,
+      "originalPrice": null,
       "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1936/prod/QC_ENRICHMENT/20260713/21/dc23e384-e11c-324a-9a3a-5a807052cdf8/1_org_zoom.jpg"
@@ -302,17 +256,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Askılık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/cicek-desenli-duvar-anahtarlik-organizer-askilik-p-1186305616",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "Çok Al Az Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1919/prod/QC_PREP/20260815/20/107aa0ee-c2a3-3c08-a0e0-f9aab03fda6d/1_org_zoom.jpg"
@@ -327,17 +279,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Aynasız Fotoğraf Makinesi",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kodak-printomatic-dijital-aninda-baski-fotograf-makinesi-beyaz-p-1188837847",
-      "price": 8500,
-      "originalPrice": null,
-      "priceText": "8.500",
+      "price": 7650,
+      "originalPrice": 8500,
+      "priceText": "7.650",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1944/prod/QC_PREP/20260820/20/0760d11a-c4e6-37c7-ab21-aa41be6707cf/1_org_zoom.jpg"
@@ -352,17 +302,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Baharatlık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/tasinabilir-4-lu-baharatlik-seti-mini-kase-ve-tasima-kabi-p-1201832716",
-      "price": 750,
+      "price": 675,
       "originalPrice": null,
-      "priceText": "750",
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260920/20/a650ee1f-98db-345e-ba39-7141628e0053/1_org_zoom.jpg"
@@ -377,17 +325,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Bebek & Çocuk Havlu",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/2-si-1-arada-kapusonlu-pelus-battaniye-yastik-p-1186116274",
-      "price": 1250,
-      "originalPrice": null,
-      "priceText": "1.250",
+      "price": 1125,
+      "originalPrice": 1250,
+      "priceText": "1.125",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1919/prod/QC_PREP/20260815/19/db921b5e-4a69-38c5-9f4d-50b0470bd72e/1_org_zoom.jpg"
@@ -402,17 +348,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Bulaşıklık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/karanlikta-isildayan-mandala-bardak-altligi-seti-5-li-stand-p-1193355197",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1948/prod/QC_PREP/20260829/20/bf8d42f4-59c4-3d97-b3e9-41f37da98772/1_org_zoom.jpg"
@@ -427,17 +371,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Cüzdan",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/temassiz-odeme-asasi-nfc-uyumlu-kartinizi-cikarmadan-tek-dokunusla-odeme-p-1175645106",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1901/prod/QC_PREP/20260724/22/39103d37-a59e-3818-adb2-830786c4aa20/1_org_zoom.jpg"
       ],
@@ -451,17 +392,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Çay & Kahve Makinesi Aksesuar",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/premium-barista-organizer-seti-kahve-kosenize-duzen-ve-siklik-katin-p-1157277530",
-      "price": 1550,
-      "originalPrice": null,
-      "priceText": "1.550",
+      "price": 1395,
+      "originalPrice": 1550,
+      "priceText": "1.395",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1903/prod/QC_PREP/20260617/00/8ff9bee1-7e00-3fa5-a475-39554be38e7e/1_org_zoom.jpg"
@@ -476,17 +415,15 @@
       "brand": "noops",
       "category": "Çelik Kolye",
       "url": "https://www.trendyol.com/noops/hoops-chains-ldn-chain-gold-statement-kolye-p-1195532312",
-      "price": 1950,
-      "originalPrice": null,
-      "priceText": "1.950",
+      "price": 1755,
+      "originalPrice": 1950,
+      "priceText": "1.755",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1949/prod/QC_PREP/20260829/19/36fd92c3-02f2-38a3-af3a-432ad0a6ad4c/1_org_zoom.jpg"
@@ -496,22 +433,124 @@
       ]
     },
     {
+      "id": 1203025649,
+      "name": "Paslanmaz Çelik Fil Figürlü Kolye ve Asimetrik Küpe Seti",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Çelik Küpe",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/paslanmaz-celik-fil-figurlu-kolye-ve-asimetrik-kupe-seti-p-1203025649",
+      "price": 315,
+      "originalPrice": null,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1963/prod/QC_PREP/20260922/22/a888e8c9-8a3e-3aed-a502-7b41048f95c8/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203025649-0.webp"
+      ]
+    },
+    {
+      "id": 1203024298,
+      "name": "Paslanmaz Çelik Kalp Ritmi Kolye ve Peri Figürlü Küpe Seti",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Çelik Küpe",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/paslanmaz-celik-kalp-ritmi-kolye-ve-peri-figurlu-kupe-seti-p-1203024298",
+      "price": 315,
+      "originalPrice": null,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260922/22/85bcda2d-e74a-3b89-aa38-3455a9b62afa/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203024298-0.webp"
+      ]
+    },
+    {
+      "id": 1203025991,
+      "name": "Paslanmaz Çelik LOVE Yazılı Kedi Figürlü Kolye ve Küpe Seti",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Çelik Küpe",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/paslanmaz-celik-love-yazili-kedi-figurlu-kolye-ve-kupe-seti-p-1203025991",
+      "price": 315,
+      "originalPrice": null,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1963/prod/QC_PREP/20260922/22/220122ad-ae82-3f7a-bc8c-e8f5c223e44a/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203025991-0.webp"
+      ]
+    },
+    {
+      "id": 1203026475,
+      "name": "Paslanmaz Çelik Sol Anahtarı Kolye ve Küpe Seti",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Çelik Küpe",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/paslanmaz-celik-sol-anahtari-kolye-ve-kupe-seti-p-1203026475",
+      "price": 315,
+      "originalPrice": null,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1962/prod/QC_PREP/20260922/22/36dd5b72-b310-381d-b91c-98a2139aa0a6/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203026475-0.webp"
+      ]
+    },
+    {
+      "id": 1203026901,
+      "name": "Paslanmaz Çelik Yıldız Figürlü Kolye ve Küpe Takı Seti – Gold Renk",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Çelik Küpe",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/paslanmaz-celik-yildiz-figurlu-kolye-ve-kupe-taki-seti-gold-renk-p-1203026901",
+      "price": 315,
+      "originalPrice": null,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1962/prod/QC_PREP/20260922/22/43bbd120-0e96-3177-96f0-b88aaac685ae/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203026901-0.webp"
+      ]
+    },
+    {
       "id": 979506538,
       "name": ": El Emeği Epoksi Reçine NİHALE / Dekoratif Obje - Kadın Tasarımı",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-nihale-dekoratif-obje-kadin-tasarimi-p-979506538",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1738/prod/QC_PREP/20250829/12/c99b44de-c429-3606-91fc-97a5e4828241/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1738/prod/QC_PREP/20250829/12/3bcd1160-8366-3426-935c-0a93a8cc5d8b/1_org_zoom.jpg",
@@ -529,17 +568,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1054105574",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1793/prod/QC_PREP/20251121/19/bd90e231-48ee-3578-a362-3f8de5f60293/1_org_zoom.jpg",
@@ -558,17 +595,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052361497",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/17/9f21c412-1546-380e-a82e-13b70192d8e5/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/17/e3a925be-b287-36c4-ae60-94b9f9295e04/1_org_zoom.jpg",
@@ -586,18 +620,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052360215",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/17/5d30e353-2a29-3c3e-8517-fdc1c77edfb6/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/17/d3b66947-8584-3199-8f69-62047de5e2bd/1_org_zoom.jpg",
@@ -615,17 +645,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052342383",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/16/fb3e9a77-0ec3-3e43-907e-52d038197969/1_org_zoom.jpg",
@@ -644,17 +672,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052341915",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/16/52392494-cfd2-3ccc-86d3-30ff080a7933/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/16/68c54275-cd3a-3eab-98fe-7aab0049bd39/1_org_zoom.jpg",
@@ -672,18 +697,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052217205",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/15/8a51a186-d56d-30cf-842a-736166212dde/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/15/ec24eb07-5565-3000-9beb-d560402fca5e/1_org_zoom.jpg",
@@ -701,18 +722,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052184977",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/14/dffe5c8f-fcd9-3cc3-9555-37b006f5fc98/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/14/767c05bd-e49b-320e-99c3-4254775bfd8d/1_org_zoom.jpg",
@@ -730,18 +747,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052182301",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/14/cf4eef37-468d-3674-b806-31ec8f6b8e75/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/14/5105e264-4561-3150-b95d-5701930dc049/1_org_zoom.jpg",
@@ -759,17 +772,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/glow-baykus-dekoratif-led-aydinlatmali-gece-lambasi-p-1192795107",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1947/prod/QC_PREP/20260828/18/00111a76-ab26-3178-9dbf-4943a2dd8472/1_org_zoom.jpg"
@@ -784,17 +795,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/anka-kusu-figuru-3d-baski-dekoratif-biblo-mitolojik-phoenix-heykeli-ev-ve-ofis-dekoru-p-1172660313",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1907/prod/QC_PREP/20260717/17/4afb3608-5b23-3e44-a9e5-a3b8bbfcdaaa/1_org_zoom.jpg"
@@ -809,17 +818,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/dekoratif-antik-kadin-bust-mumluk-saksi-el-yapimi-epoksi-tasarim-mavi-seffaf-p-1146999884",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1930/prod/QC_PREP/20260517/13/a0a52be8-708c-36e3-ac13-02c5dc3639bc/1_org_zoom.jpg",
@@ -838,17 +845,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-dekoratif-obje-kadin-tasarimi-p-1050777338",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251115/16/32859896-491d-3d6f-9002-cf1c33ded941/1_org_zoom.jpg",
@@ -867,17 +872,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1060499339",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1796/prod/QC_ENRICHMENT/20251203/15/c8a8a9d4-0efe-3625-a09f-a0d08adba93c/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1794/prod/QC_ENRICHMENT/20251203/15/6829e83e-f0fa-3f8e-9456-bda1634384a0/1_org_zoom.jpg",
@@ -890,32 +892,30 @@
       ]
     },
     {
-      "id": 979550237,
+      "id": 978976628,
       "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979550237",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-978976628",
+      "price": 351,
+      "originalPrice": 390,
+      "priceText": "351",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/a33d48f3-d957-3037-9161-2b7e819686be/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/c774c221-fa28-3b38-8805-ce81aaccd8d4/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/aa291e9a-be40-3203-941c-28015d4ad840/1_org_zoom.jpg"
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/e65dacdb-9545-37e8-816a-4fb320df2286/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/308efedd-f368-33d5-8d0b-14b84ce4aa32/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/3bb59ff1-f9aa-34b5-be23-40ba3cdadc4a/1_org_zoom.jpg"
       ],
       "localImages": [
-        "assets/products/979550237-0.webp",
-        "assets/products/979550237-1.webp",
-        "assets/products/979550237-2.webp"
+        "assets/products/978976628-0.webp",
+        "assets/products/978976628-1.webp",
+        "assets/products/978976628-2.webp"
       ]
     },
     {
@@ -924,18 +924,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1050781120",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251115/17/5d647111-ca92-33d6-951a-7690e6ff196a/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251115/17/3fb35e17-57fa-3c17-a8c1-965be21793c6/1_org_zoom.jpg",
@@ -953,18 +949,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1050776862",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251115/16/df7ed32f-54bb-34d3-8e2d-b1c94234def4/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251115/16/68ad954e-4e15-364f-a9d7-b508fff18ffd/1_org_zoom.jpg",
@@ -982,17 +974,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982492866",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_PREP/20250904/15/55c09929-6475-3e31-896b-1889965e4986/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_PREP/20250904/15/b34dfb9f-147d-36a9-bb73-a04066f463f2/1_org_zoom.jpg",
@@ -1010,17 +999,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982487538",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/11/0e0dac54-a720-329d-9d6e-cb4272155941/1_org_zoom.jpg",
@@ -1039,17 +1026,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982484662",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/11/945ac9a3-c7cc-3615-8aa8-2ebabfa03d8d/1_org_zoom.jpg",
@@ -1068,18 +1053,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982483595",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/24f306e9-1af3-361b-9614-3c455d8d7674/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/bbc40958-9563-3583-8cc3-fda33841142b/1_org_zoom.jpg",
@@ -1097,17 +1078,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-982482342",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/d75e953e-e100-3f11-b3dc-d767054007d8/1_org_zoom.jpg",
@@ -1126,17 +1105,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-981695819",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250903/20/0de96b62-f1b1-335d-90e7-6966b0eba492/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250903/20/9a297185-6f71-3c24-866b-0cfa85373d0e/1_org_zoom.jpg",
@@ -1154,17 +1130,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-981692349",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/11/42bab6d5-c741-3305-ab7f-6765bd2e0e2b/1_org_zoom.jpg",
@@ -1183,17 +1157,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-981691511",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/11/622593be-1e4f-3e41-b71a-2e12b73dd533/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/11/1b5a2ffa-e77c-3642-bad4-2d574d931041/1_org_zoom.jpg",
@@ -1211,17 +1182,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-981637124",
-      "price": 270,
-      "originalPrice": null,
-      "priceText": "270",
+      "price": 243,
+      "originalPrice": 270,
+      "priceText": "243",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1796/prod/QC_ENRICHMENT/20251203/15/c8a8a9d4-0efe-3625-a09f-a0d08adba93c/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1794/prod/QC_ENRICHMENT/20251203/15/6829e83e-f0fa-3f8e-9456-bda1634384a0/1_org_zoom.jpg",
@@ -1239,17 +1207,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979553232",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250829/16/4aa21c43-6234-3643-a422-22fb55ed56e4/1_org_zoom.jpg",
@@ -1268,18 +1234,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979551576",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_ENRICHMENT/20251114/12/4b588877-99c4-357a-90ba-38ca7e4f6d75/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_ENRICHMENT/20251114/12/45304077-881d-3d76-a6b0-bebce0b60737/1_org_zoom.jpg",
@@ -1292,23 +1254,46 @@
       ]
     },
     {
-      "id": 979545813,
+      "id": 979550237,
       "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
-      "brand": "Genel Markalar",
+      "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979545813",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979550237",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/a33d48f3-d957-3037-9161-2b7e819686be/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/c774c221-fa28-3b38-8805-ce81aaccd8d4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/aa291e9a-be40-3203-941c-28015d4ad840/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/979550237-0.webp",
+        "assets/products/979550237-1.webp",
+        "assets/products/979550237-2.webp"
+      ]
+    },
+    {
+      "id": 979545813,
+      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
+      "brand": "Genel Markalar",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979545813",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/a2f2474b-09ae-3147-b2ef-2325d05049a7/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/2b2644c9-e982-32b1-9e7c-82d38f7da090/1_org_zoom.jpg",
@@ -1326,17 +1311,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979540686",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/12/f84ecb33-4143-3824-aa05-8d201b0c7132/1_org_zoom.jpg",
@@ -1355,17 +1338,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979538899",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/cfe6a240-b933-3d32-9d6f-6f6759656d57/1_org_zoom.jpg",
@@ -1384,17 +1365,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979536695",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/109755d7-25aa-30af-8eb2-531b3c3167c2/1_org_zoom.jpg",
@@ -1413,17 +1392,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979532784",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/31e2e8b5-ad9b-3603-a5d8-f8f30fd76168/1_org_zoom.jpg",
@@ -1442,17 +1419,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979530660",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/12/73c99be8-ddfe-3bc1-a98e-2d5798c639c2/1_org_zoom.jpg",
@@ -1471,17 +1446,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979525483",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/6c6a7f7f-d85e-3307-a741-e3d364232ddd/1_org_zoom.jpg",
@@ -1500,17 +1473,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979523621",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/c54214bf-54c8-389d-996b-a50ec19d2f57/1_org_zoom.jpg",
@@ -1529,17 +1500,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979515551",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/d69c7889-72e0-33fd-a297-e9a0abae71b7/1_org_zoom.jpg",
@@ -1558,18 +1527,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979514890",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/13/8d48fd28-8b19-36c4-9779-3696a6440176/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/13/e29e56ec-b6b1-335e-9a12-d8f17188d26f/1_org_zoom.jpg",
@@ -1587,17 +1552,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979512728",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1738/prod/QC_PREP/20250829/13/f671ddaa-b6d8-3a08-a042-05b3f653dad9/1_org_zoom.jpg",
@@ -1616,17 +1579,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979512424",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1748/prod/QC_ENRICHMENT/20250907/12/b7a30943-b472-31df-bfcb-8a9e7fdc9fd6/1_org_zoom.jpg",
@@ -1645,17 +1606,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-979512108",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1749/prod/QC_ENRICHMENT/20250907/12/c6487b4a-9447-3efd-82e5-235c448146a3/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1750/prod/QC_ENRICHMENT/20250907/12/990aa9cf-2bd8-3a66-b5fb-b0e488b62a10/1_org_zoom.jpg",
@@ -1668,51 +1626,19 @@
       ]
     },
     {
-      "id": 978976628,
-      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
-      "brand": "SAF HOBİ",
-      "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-978976628",
-      "price": 390,
-      "originalPrice": null,
-      "priceText": "390",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/e65dacdb-9545-37e8-816a-4fb320df2286/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/308efedd-f368-33d5-8d0b-14b84ce4aa32/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/3bb59ff1-f9aa-34b5-be23-40ba3cdadc4a/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/978976628-0.webp",
-        "assets/products/978976628-1.webp",
-        "assets/products/978976628-2.webp"
-      ]
-    },
-    {
       "id": 978976599,
       "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-978976599",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1738/prod/QC_PREP/20250828/07/24dc2799-0915-3303-9b9a-a30c40f03df5/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/185775e3-11b5-3f2d-866e-cdf79139fd31/1_org_zoom.jpg",
@@ -1730,17 +1656,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-978976592",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1739/prod/QC_PREP/20250828/07/e4c899e9-3b62-34f3-945f-3e22644e496e/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1737/prod/QC_PREP/20250828/07/bc44470e-3cc1-35c6-b903-2a25243975c7/1_org_zoom.jpg",
@@ -1758,17 +1681,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/el-yapimi-deniz-temali-epoksi-dekoratif-organizer-mumluk-taki-tabagi-anahtarlik-masaustu-dekoru-p-1178222223",
-      "price": 1100,
-      "originalPrice": null,
-      "priceText": "1.100",
+      "price": 990,
+      "originalPrice": 1100,
+      "priceText": "990",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1902/prod/QC_PREP/20260731/17/96134875-80bf-3959-9196-be7345a7b95b/1_org_zoom.jpg"
@@ -1778,31 +1699,26 @@
       ]
     },
     {
-      "id": 1099565545,
+      "id": 1099572458,
       "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099565545",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099572458",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/22a41063-1d95-30fe-8558-59a4e242603d/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/629f0d0e-11cc-3646-adea-934ce8d215ef/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/eabd89a9-13f2-3710-8aba-0a8ebd57cfe3/1_org_zoom.jpg"
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/2159758f-1f25-3ac0-a5a8-97b76570b54f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/e2cc1075-d1bf-3b87-9186-48d567dc69d7/1_org_zoom.jpg"
       ],
       "localImages": [
-        "assets/products/1099565545-0.webp",
-        "assets/products/1099565545-1.webp",
-        "assets/products/1099565545-2.webp"
+        "assets/products/1099572458-0.webp",
+        "assets/products/1099572458-1.webp"
       ]
     },
     {
@@ -1811,17 +1727,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1098023852",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/14/f02f6918-6cc3-3c1b-bbee-27afef4b53eb/1_org_zoom.jpg",
@@ -1835,29 +1749,57 @@
       ]
     },
     {
-      "id": 1099572458,
+      "id": 1097991051,
       "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099572458",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097991051",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": false,
+      "freeCargo": true,
       "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/2159758f-1f25-3ac0-a5a8-97b76570b54f/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/e2cc1075-d1bf-3b87-9186-48d567dc69d7/1_org_zoom.jpg"
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/fce6a021-a74a-37a5-acd4-96cbae0142c7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/69754464-82ea-3990-8219-457e0904889f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/12ca2983-a26a-38ba-b0a6-8244a99e5806/1_org_zoom.jpg"
       ],
       "localImages": [
-        "assets/products/1099572458-0.webp",
-        "assets/products/1099572458-1.webp"
+        "assets/products/1097991051-0.webp",
+        "assets/products/1097991051-1.webp",
+        "assets/products/1097991051-2.webp"
+      ]
+    },
+    {
+      "id": 1093012552,
+      "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
+      "brand": "SAF HOBİ",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093012552",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/16f05c41-11ae-3900-b6ea-6fc6d0175f03/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/dc18ea59-44d0-3c2f-a841-73ede6e83507/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1816/prod/QC_PREP/20260127/23/cb151967-c787-317a-84ae-0cf466691a48/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1093012552-0.webp",
+        "assets/products/1093012552-1.webp",
+        "assets/products/1093012552-2.webp"
       ]
     },
     {
@@ -1866,18 +1808,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1142566975",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1897/prod/QC_PREP/20260505/12/dec51f04-e73f-3966-89cc-56e2d27bd0c0/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1935/prod/QC_PREP/20260505/12/1068d7f3-dd07-3039-b4d5-156ac55032fd/1_org_zoom.jpg",
@@ -1895,17 +1833,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099569888",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1822/prod/QC_PREP/20260209/17/64acdb10-5428-327c-87b2-4c797693b555/1_org_zoom.jpg",
@@ -1924,17 +1860,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099565890",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/32549027-686b-3d48-b0b0-590886c39838/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/1019a360-0002-3baf-abc6-e497207267bd/1_org_zoom.jpg",
@@ -1952,17 +1885,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099565549",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/e4b64d2b-ae07-3fef-a1ae-9d95a45f6b71/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1822/prod/QC_PREP/20260209/17/3e710d5a-2ad7-39f5-a66e-6931ffeef972/1_org_zoom.jpg",
@@ -1980,17 +1910,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099565547",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/d3381f03-9d67-396c-b886-ff38c90084f7/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1822/prod/QC_PREP/20260209/17/b8ee2a5c-71d4-36fb-9bd0-c191fe20e552/1_org_zoom.jpg",
@@ -2003,22 +1930,45 @@
       ]
     },
     {
+      "id": 1099565545,
+      "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
+      "brand": "SAF HOBİ",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099565545",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/22a41063-1d95-30fe-8558-59a4e242603d/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/629f0d0e-11cc-3646-adea-934ce8d215ef/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/17/eabd89a9-13f2-3710-8aba-0a8ebd57cfe3/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1099565545-0.webp",
+        "assets/products/1099565545-1.webp",
+        "assets/products/1099565545-2.webp"
+      ]
+    },
+    {
       "id": 1098026501,
       "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1098026501",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260206/14/438b9795-7ecc-3ebc-ac7e-4b9f00f384ac/1_org_zoom.jpg"
@@ -2033,17 +1983,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097993833",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260206/13/8dd9e6b6-033c-3516-b0c6-eced05aee41a/1_org_zoom.jpg",
@@ -2062,17 +2010,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097992511",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/4acb48fe-9d25-3c3c-8fec-2bfc491f77e9/1_org_zoom.jpg",
@@ -2086,51 +2032,20 @@
       ]
     },
     {
-      "id": 1097991051,
-      "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
-      "brand": "SAF HOBİ",
-      "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097991051",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/fce6a021-a74a-37a5-acd4-96cbae0142c7/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/69754464-82ea-3990-8219-457e0904889f/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260206/13/12ca2983-a26a-38ba-b0a6-8244a99e5806/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1097991051-0.webp",
-        "assets/products/1097991051-1.webp",
-        "assets/products/1097991051-2.webp"
-      ]
-    },
-    {
       "id": 1097989937,
       "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097989937",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260206/13/59092c2d-ef2b-3015-a0b7-bedf961bbe3e/1_org_zoom.jpg",
@@ -2149,17 +2064,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1097987293",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260206/13/afa51099-7f83-3089-b248-2b1306af5d1f/1_org_zoom.jpg",
@@ -2178,17 +2091,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093015204",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1817/prod/QC_PREP/20260127/23/9f9a6eda-e9ed-3f33-ae01-dfd87335802e/1_org_zoom.jpg",
@@ -2207,17 +2118,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093014752",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1816/prod/QC_PREP/20260127/23/99029953-af65-3bfe-9a1c-4a8772c7bc4d/1_org_zoom.jpg",
@@ -2236,17 +2145,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093013756",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/feef0c1f-de51-332b-9fce-cf70da73310f/1_org_zoom.jpg",
@@ -2265,17 +2172,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093013263",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1817/prod/QC_PREP/20260127/23/b6e40e33-14d8-3979-9b8a-c51b376e4cb6/1_org_zoom.jpg",
@@ -2289,51 +2194,20 @@
       ]
     },
     {
-      "id": 1093012552,
-      "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
-      "brand": "SAF HOBİ",
-      "category": "Dekoratif Obje ve Biblo",
-      "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093012552",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/16f05c41-11ae-3900-b6ea-6fc6d0175f03/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/dc18ea59-44d0-3c2f-a841-73ede6e83507/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1816/prod/QC_PREP/20260127/23/cb151967-c787-317a-84ae-0cf466691a48/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1093012552-0.webp",
-        "assets/products/1093012552-1.webp",
-        "assets/products/1093012552-2.webp"
-      ]
-    },
-    {
       "id": 1086417158,
       "name": "El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1086417158",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1813/prod/QC_PREP/20260116/20/93d8ae9a-9977-3ad7-95a2-dd0cfd151a6f/1_org_zoom.jpg",
@@ -2352,17 +2226,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1086411724",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1813/prod/QC_PREP/20260116/20/145cf910-7a23-30d8-b353-36f577206927/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1812/prod/QC_PREP/20260116/20/68ecde96-3ab7-3c6a-9b69-6a1a312cc8ef/1_org_zoom.jpg",
@@ -2380,17 +2251,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1086410292",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1814/prod/QC_PREP/20260116/20/73be8468-8d8f-3d16-99af-819d2f29c550/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1814/prod/QC_PREP/20260116/20/6c93bf92-4f52-32ab-be22-1733d4c28b1d/1_org_zoom.jpg",
@@ -2408,17 +2276,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1082321147",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1810/prod/QC_PREP/20260109/21/83b3be93-5531-352a-849c-88d11b5b111f/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1809/prod/QC_PREP/20260109/21/bd3c9bd5-bd4a-304f-ac3b-8970d6a72d4c/1_org_zoom.jpg",
@@ -2436,17 +2301,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1082320758",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1811/prod/QC_PREP/20260109/21/00c94d3c-c90b-352e-9b0a-b9060ce2abd3/1_org_zoom.jpg",
@@ -2465,18 +2328,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1082320626",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1810/prod/QC_PREP/20260109/21/8e0319af-c619-34a4-9866-4c174b0c55ef/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1809/prod/QC_PREP/20260109/21/102fc4ce-3f02-382e-912c-f2eee464b789/1_org_zoom.jpg",
@@ -2494,18 +2353,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1082320524",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1811/prod/QC_PREP/20260109/21/363f31b9-bbc7-33fb-a001-ca05bd7c9a4f/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1809/prod/QC_PREP/20260109/21/d1876099-a748-3fa0-aff6-19b69099e369/1_org_zoom.jpg",
@@ -2523,17 +2378,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079328512",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1808/prod/QC_PREP/20260103/19/5a63dd91-c6af-3eaa-b3be-0361813a6633/1_org_zoom.jpg",
@@ -2552,18 +2405,14 @@
       "brand": "Genel Markalar",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/genel-markalar/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079324367",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1808/prod/QC_PREP/20260103/18/0d2daaac-e3c5-36c7-957b-344d35fabdfc/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1806/prod/QC_PREP/20260103/18/87d932d0-0c3c-3d4b-a30d-8760ada432b2/1_org_zoom.jpg",
@@ -2581,17 +2430,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079323898",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1806/prod/QC_PREP/20260103/18/60c3c49d-38be-3185-a5a2-fd4785c57cf8/1_org_zoom.jpg",
@@ -2610,17 +2457,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079323828",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1807/prod/QC_PREP/20260103/18/41683cd3-f026-3f32-b207-e90b511d5977/1_org_zoom.jpg",
@@ -2639,17 +2484,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079323628",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1807/prod/QC_PREP/20260103/18/e4572618-4656-3ab0-a473-2a994ff41928/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1806/prod/QC_PREP/20260103/18/fdbfbc4e-ada6-354d-93f2-b996ab74d254/1_org_zoom.jpg",
@@ -2667,17 +2509,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079296031",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1807/prod/QC_PREP/20260103/18/4ae888d2-6043-35e2-939b-07159a4fbca8/1_org_zoom.jpg",
@@ -2696,17 +2536,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1070922101",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1801/prod/QC_PREP/20251216/15/aeb38b47-6888-3c07-a173-336bfac5fa2e/1_org_zoom.jpg",
@@ -2725,17 +2563,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1070922058",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1801/prod/QC_PREP/20251216/15/6bf65d0d-c1a8-3123-8771-e959eecde73f/1_org_zoom.jpg",
@@ -2754,17 +2590,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1065915531",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1798/prod/QC_PREP/20251212/18/f02c5d77-feb1-34cf-9e67-3a6e633789b8/1_org_zoom.jpg",
@@ -2783,17 +2617,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1065915378",
-      "price": 400,
-      "originalPrice": null,
-      "priceText": "400",
+      "price": 360,
+      "originalPrice": 400,
+      "priceText": "360",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1797/prod/QC_PREP/20251212/18/44beb43d-a003-35d6-8e80-cc3d0bb4779e/1_org_zoom.jpg",
@@ -2812,17 +2644,15 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Obje ve Biblo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1055978302",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1792/prod/QC_PREP/20251125/12/1f5b1203-5c5f-38b2-b4c6-e844e64410d9/1_org_zoom.jpg",
@@ -2836,22 +2666,65 @@
       ]
     },
     {
+      "id": 1205293601,
+      "name": "Retro Kamera Tasarımlı Katlanabilir Anı Fotoğrafı Sergileme Standı – 3D Baskı",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/retro-kamera-tasarimli-katlanabilir-ani-fotografi-sergileme-standi-3d-baski-p-1205293601",
+      "price": 675,
+      "originalPrice": null,
+      "priceText": "675",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1963/prod/QC_PREP/20260926/20/636c3b1f-49d2-3058-bb14-b23a514b0530/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1205293601-0.webp"
+      ]
+    },
+    {
+      "id": 1205271789,
+      "name": "Retro Kamera Tasarımlı Katlanabilir Anı Fotoğrafı Sergileme Standı – 3D Baskı",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Dekoratif Obje ve Biblo",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/retro-kamera-tasarimli-katlanabilir-ani-fotografi-sergileme-standi-3d-baski-p-1205271789",
+      "price": 675,
+      "originalPrice": null,
+      "priceText": "675",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1964/prod/QC_PREP/20260926/18/b37a197b-ad83-3d38-991e-0fcbf5265b5b/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1205271789-0.webp"
+      ]
+    },
+    {
       "id": 1052221128,
       "name": "“El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün”",
       "brand": "SAF HOBİ",
       "category": "Dekoratif Tabak & Kase",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052221128",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/15/308fa6f3-9455-33a7-b5a5-b535c97e2f7b/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/15/275375e6-8674-3c99-b188-ff2dc09304ea/1_org_zoom.jpg",
@@ -2869,17 +2742,14 @@
       "brand": "SAF HOBİ",
       "category": "Dekoratif Tabak & Kase",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052214371",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/15/035f6e36-ebcf-3e59-a88a-f92748421f7c/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/15/01b0205c-f46e-39cd-8019-5fc16eddc08e/1_org_zoom.jpg",
@@ -2892,23 +2762,42 @@
       ]
     },
     {
-      "id": 981657560,
-      "name": "El Emeği Epoksi Reçine Dekoratif Obje ( DÜŞ KAPANI ) - Kadın Tasarımı",
-      "brand": "SAF HOBİ",
-      "category": "Duvar Dekorasyon Ürünü",
-      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-dekoratif-obje-dus-kapani-kadin-tasarimi-p-981657560",
-      "price": 350,
+      "id": 1204924818,
+      "name": "Halloween Spirit Board Dekoratif Set – Planchette Figürlü Gotik Masa Dekoru",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Diğer Oyun Takımları",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/halloween-spirit-board-dekoratif-set-planchette-figurlu-gotik-masa-dekoru-p-1204924818",
+      "price": 675,
       "originalPrice": null,
-      "priceText": "350",
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1963/prod/QC_PREP/20260925/19/1604aef7-68d3-3388-b4f6-d0609faba27c/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1204924818-0.webp"
+      ]
+    },
+    {
+      "id": 981657560,
+      "name": "El Emeği Epoksi Reçine Dekoratif Obje ( DÜŞ KAPANI ) - Kadın Tasarımı",
+      "brand": "SAF HOBİ",
+      "category": "Duvar Dekorasyon Ürünü",
+      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-dekoratif-obje-dus-kapani-kadin-tasarimi-p-981657560",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1742/prod/QC_PREP/20250902/14/2faaafad-46da-3e56-baa6-19c1ecf1fac2/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/14/e9bf85c6-52d8-31c9-9161-21be6af9fd9b/1_org_zoom.jpg",
@@ -2926,17 +2815,14 @@
       "brand": "SAF HOBİ",
       "category": "Duvar Dekorasyon Ürünü",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1093018964",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1815/prod/QC_PREP/20260127/23/1cabce48-0897-3630-a365-c0fc15b2e2b2/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1816/prod/QC_PREP/20260127/23/48c180b6-e0aa-3b56-b244-2de44d7e647b/1_org_zoom.jpg"
@@ -2952,17 +2838,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Duvar Dekorasyon Ürünü",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/el-yapimi-renkli-dus-kapani-duvar-susu-p-1153994326",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1935/prod/QC_PREP/20260603/23/d8e9c1b4-a90a-3f54-906b-6e0c71b80d8a/1_org_zoom.jpg",
@@ -2979,17 +2863,15 @@
       "brand": "Duvar Tasarım",
       "category": "Duvar Dekorasyon Ürünü",
       "url": "https://www.trendyol.com/duvar-tasarim/rgb-serit-led-aydinlatmali-glow-mandala-duvar-dekoru-p-1193356553",
-      "price": 2750,
-      "originalPrice": null,
-      "priceText": "2.750",
+      "price": 2475,
+      "originalPrice": 2750,
+      "priceText": "2.475",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1948/prod/QC_PREP/20260829/20/d8c522df-b932-39b7-8d78-a9ac9d0e24c6/1_org_zoom.jpg"
@@ -3004,17 +2886,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/profesyonel-klaket-tahtasi-film-video-sosyal-medya-cekimleri-p-1185687872",
-      "price": 750,
-      "originalPrice": null,
-      "priceText": "750",
+      "price": 675,
+      "originalPrice": 750,
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1913/prod/QC_PREP/20260814/16/99eeda18-724a-3fdd-8f4e-b86da075eeb6/1_org_zoom.jpg"
@@ -3024,51 +2904,20 @@
       ]
     },
     {
-      "id": 1140180882,
-      "name": "BIIN 59 Kamera Sırt Çantası SIFIR Kutusunda – Üretimi Durdurulmuş Nadir Model",
-      "brand": "Vanguard",
-      "category": "Foto & Kamera Aksesuarı",
-      "url": "https://www.trendyol.com/vanguard/biin-59-kamera-sirt-cantasi-sifir-kutusunda-uretimi-durdurulmus-nadir-model-p-1140180882",
-      "price": 4250,
-      "originalPrice": null,
-      "priceText": "4.250",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1934/prod/QC_PREP/20260429/18/0de95bd0-bd26-3335-b9eb-b404a95d7284/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1908/prod/QC_PREP/20260429/18/150b13cc-c7c7-3dd2-ac72-05fa32836118/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1911/prod/QC_PREP/20260429/18/593e8677-b83b-35ad-add0-f6e2f00c5496/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1140180882-0.webp",
-        "assets/products/1140180882-1.webp",
-        "assets/products/1140180882-2.webp"
-      ]
-    },
-    {
       "id": 1144120975,
       "name": "BIIN 59 Kamera Sırt Çantası SIFIR Kutusunda – Üretimi Durdurulmuş Nadir Model",
       "brand": "Vanguard",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/vanguard/biin-59-kamera-sirt-cantasi-sifir-kutusunda-uretimi-durdurulmus-nadir-model-p-1144120975",
-      "price": 4250,
-      "originalPrice": null,
-      "priceText": "4.250",
+      "price": 3825,
+      "originalPrice": 4250,
+      "priceText": "3.825",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1915/prod/QC_PREP/20260504/13/25c1f2b9-148c-3dde-80a9-c6b6070400cd/1_org_zoom.jpg",
@@ -3082,22 +2931,47 @@
       ]
     },
     {
-      "id": 1201823245,
-      "name": "GoPro Uyumlu 3D Baskı Aksiyon Kamera ve Aksesuar Düzenleyici Kutu",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "id": 1140180882,
+      "name": "BIIN 59 Kamera Sırt Çantası SIFIR Kutusunda – Üretimi Durdurulmuş Nadir Model",
+      "brand": "Vanguard",
       "category": "Foto & Kamera Aksesuarı",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/gopro-uyumlu-3d-baski-aksiyon-kamera-ve-aksesuar-duzenleyici-kutu-p-1201823245",
-      "price": 950,
-      "originalPrice": null,
-      "priceText": "950",
+      "url": "https://www.trendyol.com/vanguard/biin-59-kamera-sirt-cantasi-sifir-kutusunda-uretimi-durdurulmus-nadir-model-p-1140180882",
+      "price": 3825,
+      "originalPrice": 4250,
+      "priceText": "3.825",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1934/prod/QC_PREP/20260429/18/0de95bd0-bd26-3335-b9eb-b404a95d7284/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1908/prod/QC_PREP/20260429/18/150b13cc-c7c7-3dd2-ac72-05fa32836118/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1911/prod/QC_PREP/20260429/18/593e8677-b83b-35ad-add0-f6e2f00c5496/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1140180882-0.webp",
+        "assets/products/1140180882-1.webp",
+        "assets/products/1140180882-2.webp"
+      ]
+    },
+    {
+      "id": 1201823245,
+      "name": "GoPro Uyumlu 3D Baskı Aksiyon Kamera ve Aksesuar Düzenleyici Kutu",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Foto & Kamera Aksesuarı",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/gopro-uyumlu-3d-baski-aksiyon-kamera-ve-aksesuar-duzenleyici-kutu-p-1201823245",
+      "price": 855,
+      "originalPrice": null,
+      "priceText": "855",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260920/20/4ccd6992-8896-34ee-ba90-376b9157dcb9/1_org_zoom.jpg"
@@ -3112,17 +2986,15 @@
       "brand": "SAF HOBİ",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi/ring-light-youtuber-tiktok-cekim-tripod-isikli-telefon-tutucu-makyaj-isigi-10-inc-2-1-mt-tripod-p-1117677100",
-      "price": 520,
-      "originalPrice": null,
-      "priceText": "520",
+      "price": 468,
+      "originalPrice": 520,
+      "priceText": "468",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1836/prod/QC_PREP/20260311/20/70a46870-ad3c-3b6b-a092-95a326914f48/1_org_zoom.jpg",
@@ -3139,17 +3011,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/rycote-lavalier-accessories-profesyonel-yaka-mikrofonu-aksesuari-made-in-uk-p-1192825618",
-      "price": 2500,
-      "originalPrice": null,
-      "priceText": "2.500",
+      "price": 2250,
+      "originalPrice": 2500,
+      "priceText": "2.250",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1948/prod/QC_PREP/20260828/19/f57126ce-b740-3109-877d-540e00cf0a07/1_org_zoom.jpg"
@@ -3164,17 +3034,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Foto & Kamera Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/sony-a7-iii-kamera-aksesuar-duzenleyici-organizer-hafiza-karti-ekipman-standi-p-1193349992",
-      "price": 750,
-      "originalPrice": null,
-      "priceText": "750",
+      "price": 675,
+      "originalPrice": 750,
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1949/prod/QC_PREP/20260829/19/2054f9b2-b8b8-3ff8-a067-3d964d0fd2f8/1_org_zoom.jpg"
@@ -3189,17 +3057,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kalem Kutusu",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kasli-figur-tasarimli-3d-baski-dekoratif-kalemlik-ve-masaustu-organizer-p-1201127778",
-      "price": 650,
-      "originalPrice": null,
-      "priceText": "650",
+      "price": 585,
+      "originalPrice": 650,
+      "priceText": "585",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260918/15/e234c196-9f3c-34d3-9930-0ac221fc0174/1_org_zoom.jpg"
@@ -3214,17 +3080,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kamp Masası",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/katlanabilir-portatif-kamp-piknik-masasi-21-x-21-cm-hafif-ve-kompakt-tasarim-p-1163862406",
-      "price": 490,
-      "originalPrice": null,
-      "priceText": "490",
+      "price": 441,
+      "originalPrice": 490,
+      "priceText": "441",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1941/prod/QC_PREP/20260702/19/2d76d302-bbef-3eef-b97e-aaf80b8513a6/1_org_zoom.jpg",
@@ -3241,17 +3105,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kamp Mutfağı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/moduler-protein-tozu-tasima-kabi-vidali-porsiyonluk-whey-protein-kutusu-p-1184020170",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1903/prod/QC_PREP/20260812/01/be663889-637a-37ea-9285-28bd745fb233/1_org_zoom.jpg"
@@ -3266,17 +3128,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kamp Yemek Seti",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/cok-amacli-dekoratif-organizer-kutu-kapakli-duzenleyici-saklama-kutusu-p-1188060269",
-      "price": 750,
-      "originalPrice": null,
-      "priceText": "750",
+      "price": 675,
+      "originalPrice": 750,
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1944/prod/QC_PREP/20260818/23/1d2749a2-9e92-336d-b14d-448c33c3ac14/1_org_zoom.jpg"
@@ -3291,17 +3151,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kamp Yemek Seti",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kamp-outdoor-cok-amacli-baharat-ve-saklama-seti-tasinabilir-6-parca-p-1184859502",
-      "price": 650,
-      "originalPrice": null,
-      "priceText": "650",
+      "price": 585,
+      "originalPrice": 650,
+      "priceText": "585",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1902/prod/QC_PREP/20260813/17/391cbab7-5f4d-3cf6-b16c-d050683853d9/1_org_zoom.jpg"
@@ -3316,17 +3174,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kamp Yemek Seti",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/moduler-bolmeli-cevirmeli-kapakli-tasima-ve-saklama-kabi-kamp-spor-ve-seyahat-p-1201826167",
-      "price": 750,
+      "price": 675,
       "originalPrice": null,
-      "priceText": "750",
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/20/37d0e7fb-f85a-3950-96b7-46be4a9d0994/1_org_zoom.jpg"
@@ -3336,22 +3192,43 @@
       ]
     },
     {
-      "id": 1196817591,
-      "name": "The Next Generation – Borg Cube Light & Sound Ürünü",
-      "brand": "Star",
+      "id": 1203012807,
+      "name": "Funko Pop Deluxe One Piece Yamato #1596 Kutulu Figür",
+      "brand": "Funko Pocket PoP",
       "category": "Karakter Figür Oyuncak",
-      "url": "https://www.trendyol.com/star/the-next-generation-borg-cube-light-sound-urunu-p-1196817591",
-      "price": 2500,
+      "url": "https://www.trendyol.com/funko-pocket-pop/funko-pop-deluxe-one-piece-yamato-1596-kutulu-figur-p-1203012807",
+      "price": 5850,
       "originalPrice": null,
-      "priceText": "2.500",
+      "priceText": "5.850",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260922/21/34d62ab1-d615-3ea0-9bc9-9bddb08f24e6/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1203012807-0.webp"
+      ]
+    },
+    {
+      "id": 1196817591,
+      "name": "The Next Generation – Borg Cube Light & Sound Ürünü",
+      "brand": "Star",
+      "category": "Karakter Figür Oyuncak",
+      "url": "https://www.trendyol.com/star/the-next-generation-borg-cube-light-sound-urunu-p-1196817591",
+      "price": 2250,
+      "originalPrice": 2500,
+      "priceText": "2.250",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1947/prod/QC_PREP/20260829/18/120de745-8242-3e4d-bae0-204631a1c2bc/1_org_zoom.jpg"
@@ -3366,18 +3243,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kedi Tırmalaması",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ananas-tasarimli-kedi-kasinma-aparati-ve-kedi-otu-saksisi-2-si-1-arada-turuncu-p-1173338489",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1931/prod/QC_PREP/20260719/20/f5798ad9-763b-301e-8d33-d531e1c6ee39/1_org_zoom.jpg"
       ],
@@ -3391,16 +3264,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Kilit",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/switchbot-lock-pro-akilli-kapi-kilidi-bluetooth-kontrollu-anahtarsiz-akilli-kilit-p-1189803606",
-      "price": 9750,
-      "originalPrice": 9900,
-      "priceText": "9.750",
+      "price": 8910,
+      "originalPrice": null,
+      "priceText": "8.910",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1945/prod/QC_PREP/20260822/17/1f4dc8ce-a5a1-3534-9596-00d7d3685231/1_org_zoom.jpg"
@@ -3415,17 +3287,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Koku Giderici ve Hava Temizleyici",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/alevli-aromaterapi-difuzoru-sessiz-usb-hava-nemlendirici-beyaz-p-1163406669",
-      "price": 1250,
-      "originalPrice": null,
-      "priceText": "1.250",
+      "price": 1125,
+      "originalPrice": 1250,
+      "priceText": "1.125",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1930/prod/QC_PREP/20260701/17/69eb5514-2c23-3bc2-aaf0-40b21f5c4da8/1_org_zoom.jpg",
@@ -3444,17 +3314,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Koku Giderici ve Hava Temizleyici",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/hasir-gorunumlu-aromaterapi-buhurdanlik-ve-hava-nemlendirici-p-1163409244",
-      "price": 1250,
-      "originalPrice": null,
-      "priceText": "1.250",
+      "price": 1125,
+      "originalPrice": 1250,
+      "priceText": "1.125",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1931/prod/QC_PREP/20260701/17/9085550f-fa92-31d5-a920-656b9c680e9a/1_org_zoom.jpg",
@@ -3471,17 +3339,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Konsept Hediyelik",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/polaroid-tasarimli-katlanabilir-fotograf-sergileme-standi-p-1186171870",
-      "price": 750,
-      "originalPrice": null,
-      "priceText": "750",
+      "price": 675,
+      "originalPrice": 750,
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1897/prod/QC_PREP/20260815/23/7e47e5e7-09ef-32dd-923e-e80beec55f2d/1_org_zoom.jpg"
@@ -3496,17 +3362,14 @@
       "brand": "SAF HOBİ",
       "category": "Konsept Hediyelik",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-masa-ustu-kartlik-resimlik-dekoratif-obje-kadin-tasarimi-p-981659773",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": 5,
       "reviewCount": 1,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/14/517f8ebd-4387-3087-9cba-40611e592392/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1742/prod/QC_PREP/20250902/14/9f5aafce-4b67-3102-b2d4-a4fd91796987/1_org_zoom.jpg",
@@ -3524,17 +3387,14 @@
       "brand": "SAF HOBİ",
       "category": "Konsept Hediyelik",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-masa-ustu-kartlik-resimlik-dekoratif-obje-kadin-tasarimi-p-1070992220",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1802/prod/QC_PREP/20251216/17/20a9bcaa-7ee3-36fc-836d-22a9acc4b1ac/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1802/prod/QC_PREP/20251216/17/6dea8084-7a5e-3b4b-97a9-7a2ec741bf20/1_org_zoom.jpg",
@@ -3552,17 +3412,14 @@
       "brand": "SAF HOBİ",
       "category": "Konsept Hediyelik",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-masa-ustu-kartlik-dekoratif-obje-kadin-tasarimi-p-981658196",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1742/prod/QC_PREP/20250902/14/11d89979-6130-389d-a762-1160ed338832/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1741/prod/QC_PREP/20250902/14/1c665009-9177-345e-9982-70b88c302e8e/1_org_zoom.jpg"
@@ -3578,17 +3435,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Konsol Gamepad ve Joystick",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/minecraft-ender-dragon-cok-renkli-3d-baski-masaustu-figuru-p-1157998009",
-      "price": 950,
+      "price": 855,
       "originalPrice": null,
-      "priceText": "950",
+      "priceText": "855",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1918/prod/QC_ENRICHMENT/20260713/21/38d046c2-e8ce-3008-a952-15f2c134b756/1_org_zoom.jpg"
@@ -3603,17 +3458,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Koruyucu Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kucuk-boy-mini-futbol-tekmeligi-corap-ici-siyah-tekmelik-p-1201839369",
-      "price": 750,
+      "price": 675,
       "originalPrice": null,
-      "priceText": "750",
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260920/21/1b5a4ed0-736f-301c-a189-a3f9882d883b/1_org_zoom.jpg"
@@ -3623,49 +3476,20 @@
       ]
     },
     {
-      "id": 1177751585,
-      "name": "L Beden Kedi ve Köpek Koruyucu Boyunluk – Yumuşak Ayarlanabilir Ameliyat Sonrası Koruma Tasması – Elizabeth Yakalığı",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Köpek Aksesuarı",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/l-beden-kedi-ve-kopek-koruyucu-boyunluk-yumusak-ayarlanabilir-ameliyat-sonrasi-koruma-tasmasi-elizabeth-yakaligi-p-1177751585",
-      "price": 875,
-      "originalPrice": null,
-      "priceText": "875",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1939/prod/QC_PREP/20260730/20/ff101a8a-b65e-31c0-a799-a77c8c8ed53c/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1936/prod/QC_PREP/20260730/20/0c8cd067-3a1c-37c4-b1c4-1f0fd2a580e0/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1177751585-0.webp",
-        "assets/products/1177751585-1.webp"
-      ]
-    },
-    {
       "id": 1177751688,
       "name": "M Beden Kedi ve Köpek Koruyucu Boyunluk – Yumuşak Ayarlanabilir Ameliyat Sonrası Koruma Tasması – Elizabeth Yakalığı",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/m-beden-kedi-ve-kopek-koruyucu-boyunluk-yumusak-ayarlanabilir-ameliyat-sonrasi-koruma-tasmasi-elizabeth-yakaligi-p-1177751688",
-      "price": 875,
-      "originalPrice": null,
-      "priceText": "875",
+      "price": 788,
+      "originalPrice": 875,
+      "priceText": "787,50",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1902/prod/QC_PREP/20260730/20/8ca8cd27-c841-359c-9a01-46341bdb7ef9/1_org_zoom.jpg",
@@ -3682,17 +3506,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Oyuncağı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ameliyat-sonrasi-koruyucu-kopek-tulumu-recovery-suit-p-1186116408",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1922/prod/QC_PREP/20260815/19/3019dc91-8914-3340-bcb1-8ca9becc705b/1_org_zoom.jpg"
@@ -3707,17 +3529,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Oyuncağı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ameliyat-sonrasi-koruyucu-kopek-tulumu-recovery-suit-l-beden-p-1200355140",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1956/prod/QC_PREP/20260916/22/b521f89f-9933-358a-9ac3-54296bed25eb/1_org_zoom.jpg"
@@ -3732,17 +3552,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Oyuncağı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ameliyat-sonrasi-koruyucu-kopek-tulumu-recovery-suit-m-beden-p-1200823507",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260917/22/76cb6027-dc85-38b4-9299-d3a9c5c05c0d/1_org_zoom.jpg"
@@ -3757,17 +3575,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Oyuncağı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ameliyat-sonrasi-koruyucu-kopek-tulumu-recovery-suit-xl-beden-p-1200355975",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1958/prod/QC_PREP/20260916/22/55f052d1-c316-3e19-b586-4c5e133452f5/1_org_zoom.jpg"
@@ -3782,17 +3598,15 @@
       "brand": "Canis",
       "category": "Köpek Şampuanı",
       "url": "https://www.trendyol.com/canis/ortocanis-kopek-diz-destegi-xs-sag-bacak-p-1197768787",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1955/prod/QC_PREP/20260909/17/d7b93506-1a40-36c9-ba8d-de48c3a885df/1_org_zoom.jpg"
@@ -3807,17 +3621,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Köpek Şampuanı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/suitical-recovery-sleeve-dog-s-beden-kopek-koruyucu-iyilesme-kollugu-p-1193343438",
-      "price": 2250,
-      "originalPrice": null,
-      "priceText": "2.250",
+      "price": 2025,
+      "originalPrice": 2250,
+      "priceText": "2.025",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1947/prod/QC_PREP/20260829/18/5a9327f1-3a5e-35fb-b33e-5abd3cc36743/1_org_zoom.jpg",
@@ -3834,18 +3646,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Küllük",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/premium-masaustu-organizer-cekmeceli-kul-tablasi-ve-aksesuar-duzenleyici-p-1163367182",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1908/prod/QC_PREP/20260701/16/7c375cca-9246-362a-8c07-ae87c6632a88/1_org_zoom.jpg"
       ],
@@ -3859,17 +3667,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Led Işık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/dekoratif-balkabagi-led-isik-p-1175714205",
-      "price": 275,
-      "originalPrice": null,
-      "priceText": "275",
+      "price": 248,
+      "originalPrice": 275,
+      "priceText": "247,50",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1917/prod/QC_PREP/20260724/20/67bbfac8-5d3e-3149-a5f7-24904e74ef53/1_org_zoom.jpg"
       ],
@@ -3878,22 +3683,47 @@
       ]
     },
     {
-      "id": 1178661291,
-      "name": "👑 Barok Dekoratif Masa Düzenleyici | Takılık • Not Kağıtlığı • Anahtarlık • Kartvizitlik",
+      "id": 1201877735,
+      "name": "3D Baskı RGB LED’li Mandala Duvar Dekoru – Işıklı Dekoratif Pano",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Makyaj & Takı Organizeri",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/barok-dekoratif-masa-duzenleyici-takilik-not-kagitligi-anahtarlik-kartvizitlik-p-1178661291",
-      "price": 550,
+      "category": "Led Işık",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/3d-baski-rgb-led-li-mandala-duvar-dekoru-isikli-dekoratif-pano-p-1201877735",
+      "price": 2475,
       "originalPrice": null,
-      "priceText": "550",
+      "priceText": "2.475",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1959/prod/QC_PREP/20260920/22/f2eec0af-ff26-3206-8d51-7d415681ea8a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/22/31ac5915-4f53-38e1-b456-5c5a6843b0b2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/22/855ca910-5d95-3a68-820b-2f9309b80c7f/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1201877735-0.webp",
+        "assets/products/1201877735-1.webp",
+        "assets/products/1201877735-2.webp"
+      ]
+    },
+    {
+      "id": 1178661291,
+      "name": "👑 Barok Dekoratif Masa Düzenleyici | Takılık • Not Kağıtlığı • Anahtarlık • Kartvizitlik",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Makyaj & Takı Organizeri",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/barok-dekoratif-masa-duzenleyici-takilik-not-kagitligi-anahtarlik-kartvizitlik-p-1178661291",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1903/prod/QC_PREP/20260731/17/80df4dc6-77dc-3132-8252-1dcea272bc40/1_org_zoom.jpg"
@@ -3908,18 +3738,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Makyaj & Takı Organizeri",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kabuk-desenli-dekoratif-takilik-ve-organizer-p-1162233281",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1911/prod/QC_PREP/20260628/14/c87d8a99-bc2a-3a36-851a-536004baaa6e/1_org_zoom.jpg"
       ],
@@ -3933,17 +3759,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Mikrofon ve Aksesuar",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/jz-microphones-profesyonel-mikrofon-metal-govde-p-1193356901",
-      "price": 45000,
+      "price": 40500,
       "originalPrice": null,
-      "priceText": "45.000",
+      "priceText": "40.500",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1948/prod/QC_PREP/20260829/19/673e02b1-debb-34f4-922d-91612cef10a4/1_org_zoom.jpg"
@@ -3958,17 +3782,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Mobil Oyun Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/ps5-dualsense-kol-ve-kulaklik-stand-cekmeceli-masaustu-organizer-premium-3d-baski-p-1171864665",
-      "price": 550,
+      "price": 495,
       "originalPrice": null,
-      "priceText": "550",
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1917/prod/QC_PREP/20260715/23/e52aebfe-d2cc-3aa8-8067-df8b31af60b8/1_org_zoom.jpg"
@@ -3983,16 +3805,15 @@
       "brand": "BUTİKAMBAR",
       "category": "Mousepad",
       "url": "https://www.trendyol.com/butikambar/kambar-oyun-buyuk-boy-gaming-mouse-pad-800-400-3-mm-p-1197768372",
-      "price": 3500,
-      "originalPrice": null,
-      "priceText": "3.500",
+      "price": 3099,
+      "originalPrice": 3150,
+      "priceText": "3.099,43",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
         "Kargo Bedava",
-        "50 TL Kupon",
         "4 Al 3 Öde"
       ],
       "images": [
@@ -4008,17 +3829,15 @@
       "brand": "BUTİKAMBAR",
       "category": "Mousepad",
       "url": "https://www.trendyol.com/butikambar/kambar-oyun-buyuk-boy-gaming-mouse-pad-800-400-3-mm-p-1197695670",
-      "price": 3500,
-      "originalPrice": null,
-      "priceText": "3.500",
+      "price": 3150,
+      "originalPrice": 3500,
+      "priceText": "3.150",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1954/prod/QC_PREP/20260909/15/4b171f9d-60a9-3892-b511-37a3c920a210/1_org_zoom.jpg"
@@ -4033,18 +3852,14 @@
       "brand": "SAF HOBİ",
       "category": "Mum & Kandil",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052355017",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/16/7970888e-e74d-360a-9838-a59077bee120/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/16/f4eb6251-6ffa-348a-9de1-19c832a929db/1_org_zoom.jpg",
@@ -4062,17 +3877,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Okey Takımı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/3d-baski-kalpli-xox-masa-oyunu-kapakli-tic-tac-toe-tasinabilir-zeka-oyunu-p-1162625120",
-      "price": 180,
-      "originalPrice": null,
-      "priceText": "180",
+      "price": 162,
+      "originalPrice": 180,
+      "priceText": "162",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1911/prod/QC_ENRICHMENT/20260714/08/c6e25241-42a9-3a1b-a815-695af0dcb070/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1927/prod/QC_PREP/20260629/18/ba459588-8d1a-396e-953a-7c3a52586da9/1_org_zoom.jpg"
@@ -4088,17 +3900,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Olta Makinesi",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/lurekiller-saltist-sw10000hg-spin-jig-olta-makinesi-p-1176951094",
-      "price": 20000,
-      "originalPrice": null,
-      "priceText": "20.000",
+      "price": 18000,
+      "originalPrice": 20000,
+      "priceText": "18.000",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1920/prod/QC_PREP/20260728/19/527e5bd9-28bd-37d5-8d6a-0e983c99de11/1_org_zoom.jpg"
@@ -4113,17 +3923,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Olta Makinesi",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/katlanabilir-celik-bipod-22-mm-picatinny-weaver-uyumlu-p-1188853430",
-      "price": 4500,
-      "originalPrice": null,
-      "priceText": "4.500",
+      "price": 4050,
+      "originalPrice": 4500,
+      "priceText": "4.050",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1946/prod/QC_PREP/20260820/21/b23c4b79-462f-319f-a0be-1da981f32f70/1_org_zoom.jpg"
@@ -4133,80 +3941,20 @@
       ]
     },
     {
-      "id": 1135010609,
-      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
-      "brand": "SAF HOBİ",
-      "category": "Omuz Çantası",
-      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135010609",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1858/prod/QC_PREP/20260418/19/2d13168e-9753-3fca-8c62-2e91d6d9bd59/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/8fd856ec-f449-3eee-92d4-0ec21ca891ad/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/2f347d34-2e15-3d12-980f-989110d675ce/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1135010609-0.webp",
-        "assets/products/1135010609-1.webp",
-        "assets/products/1135010609-2.webp"
-      ]
-    },
-    {
-      "id": 1135011852,
-      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
-      "brand": "SAF HOBİ",
-      "category": "Omuz Çantası",
-      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011852",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/49998761-8109-31cf-b7e0-727e93c90773/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/30192495-689f-31ca-8af9-1668c5630f42/1_org_zoom.jpg",
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/ad399060-cfcc-37a3-a538-abc869a483b5/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1135011852-0.webp",
-        "assets/products/1135011852-1.webp",
-        "assets/products/1135011852-2.webp"
-      ]
-    },
-    {
       "id": 1135011972,
       "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
       "brand": "SAF HOBİ",
       "category": "Omuz Çantası",
       "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011972",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/5b505d3e-e9e8-3457-9246-75ecb01f2a32/1_org_zoom.jpg",
@@ -4225,17 +3973,15 @@
       "brand": "SAF HOBİ",
       "category": "Omuz Çantası",
       "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011967",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1858/prod/QC_PREP/20260418/19/28688435-6625-305a-9c48-c127c7cd69fe/1_org_zoom.jpg",
@@ -4249,22 +3995,47 @@
       ]
     },
     {
-      "id": 1135011843,
+      "id": 1135011852,
       "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
       "brand": "SAF HOBİ",
       "category": "Omuz Çantası",
-      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011843",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011852",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/49998761-8109-31cf-b7e0-727e93c90773/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/30192495-689f-31ca-8af9-1668c5630f42/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/ad399060-cfcc-37a3-a538-abc869a483b5/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1135011852-0.webp",
+        "assets/products/1135011852-1.webp",
+        "assets/products/1135011852-2.webp"
+      ]
+    },
+    {
+      "id": 1135011843,
+      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
+      "brand": "SAF HOBİ",
+      "category": "Omuz Çantası",
+      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135011843",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/93880d8d-4678-3396-94c0-152918100ec5/1_org_zoom.jpg",
@@ -4278,21 +4049,47 @@
       ]
     },
     {
+      "id": 1135010609,
+      "name": "Kadın Mini Omuz Çantası Kapitone Desenli Zincir Tokalı Şık Günlük Çanta",
+      "brand": "SAF HOBİ",
+      "category": "Omuz Çantası",
+      "url": "https://www.trendyol.com/saf-hobi/kadin-mini-omuz-cantasi-kapitone-desenli-zincir-tokali-sik-gunluk-canta-p-1135010609",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1858/prod/QC_PREP/20260418/19/2d13168e-9753-3fca-8c62-2e91d6d9bd59/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1859/prod/QC_PREP/20260418/19/8fd856ec-f449-3eee-92d4-0ec21ca891ad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1857/prod/QC_PREP/20260418/19/2f347d34-2e15-3d12-980f-989110d675ce/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1135010609-0.webp",
+        "assets/products/1135010609-1.webp",
+        "assets/products/1135010609-2.webp"
+      ]
+    },
+    {
       "id": 1173331808,
       "name": "Araç Güneşliği Uzatma Aparatı | Ayarlanabilir Yan Cam Güneş Koruyucu | Sun Vizör",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Oto Güneşlik Perde",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/arac-gunesligi-uzatma-aparati-ayarlanabilir-yan-cam-gunes-koruyucu-sun-vizor-p-1173331808",
       "price": 495,
-      "originalPrice": 550,
+      "originalPrice": null,
       "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1917/prod/QC_PREP/20260719/19/b09eccd5-9615-3a66-be7a-51e7c18b04aa/1_org_zoom.jpg"
@@ -4308,15 +4105,14 @@
       "category": "Oto Güneşlik Perde",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/arac-guneslik-yan-uzatma-aparati-ayarlanabilir-ek-gunes-koruyucu-3d-baski-p-1175508605",
       "price": 495,
-      "originalPrice": 550,
+      "originalPrice": null,
       "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1930/prod/QC_PREP/20260724/14/ed0c825a-1520-3db3-9ad6-a50e6c335dca/1_org_zoom.jpg",
@@ -4343,8 +4139,7 @@
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1930/prod/QC_PREP/20260724/14/ed0c825a-1520-3db3-9ad6-a50e6c335dca/1_org_zoom.jpg",
@@ -4358,47 +4153,20 @@
       ]
     },
     {
-      "id": 1193344697,
-      "name": "5’li Dönüşebilen İnşaat Araçları Robot Seti 🚧🤖",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Oyuncak Araba",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/5-li-donusebilen-insaat-araclari-robot-seti-p-1193344697",
-      "price": 4500,
-      "originalPrice": null,
-      "priceText": "4.500",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1948/prod/QC_PREP/20260829/18/062ebd8e-db96-3cf9-a4b6-95373b67931a/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1193344697-0.webp"
-      ]
-    },
-    {
       "id": 1160819708,
       "name": "Antik Sütun Kulaklık Stand",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Oyuncu Kulaklık",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/antik-sutun-kulaklik-stand-p-1160819708",
-      "price": 900,
-      "originalPrice": null,
-      "priceText": "900",
+      "price": 810,
+      "originalPrice": 900,
+      "priceText": "810",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1897/prod/QC_PREP/20260621/19/98b3b0d6-e560-3912-b295-89b0458f97b8/1_org_zoom.jpg"
@@ -4413,17 +4181,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Paten",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/siklik-konfor-ve-kalite-bir-arada-p-1197970987",
-      "price": 12000,
+      "price": 10800,
       "originalPrice": null,
-      "priceText": "12.000",
+      "priceText": "10.800",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1954/prod/QC_PREP/20260909/12/fd0ec63a-c79c-3474-8e0b-4783860116d2/1_org_zoom.jpg"
@@ -4438,17 +4204,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Peluş Oyuncak",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/sevimli-dinozor-pelus-oyuncak-beyaz-turkuaz-p-1188760432",
-      "price": 1500,
-      "originalPrice": null,
-      "priceText": "1.500",
+      "price": 1350,
+      "originalPrice": 1500,
+      "priceText": "1.350",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1944/prod/QC_PREP/20260820/17/4224d0fc-a0a0-398a-8111-fe6f47164de5/1_org_zoom.jpg"
@@ -4463,17 +4227,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Peluş Oyuncak",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/sevimli-beyaz-tavsan-pelus-p-1200857079",
-      "price": 2250,
-      "originalPrice": null,
-      "priceText": "2.250",
+      "price": 2025,
+      "originalPrice": 2250,
+      "priceText": "2.025",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1961/prod/QC_PREP/20260918/00/e324a1c3-f644-37af-b289-8d72f86fc08c/1_org_zoom.jpg"
@@ -4488,17 +4250,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Pilli Diş Fırçası",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/2-si-1-arada-elektrikli-dis-fircasi-agiz-dusu-500-ml-p-1189808201",
-      "price": 5500,
-      "originalPrice": null,
-      "priceText": "5.500",
+      "price": 4950,
+      "originalPrice": 5500,
+      "priceText": "4.950",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1945/prod/QC_PREP/20260822/18/90552122-143b-3d3f-8e4d-01524ba668e0/1_org_zoom.jpg"
@@ -4513,17 +4273,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Playstation Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/cekmeceli-kulaklik-ps5-kol-standi-telefon-tutuculu-masaustu-duzenleyici-p-1162405720",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1919/prod/QC_ENRICHMENT/20260708/22/b9e017d2-9a81-3bfd-82ff-57d416feecc5/1_org_zoom.jpg"
@@ -4538,17 +4296,14 @@
       "brand": "SAF HOBİ",
       "category": "Runner & Amerikan Servisi",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052114273",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/13/194c8b2a-3dc4-3be5-92e4-98c03902b522/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/13/575467a2-3ca2-3a06-b298-0732a58c6eaf/1_org_zoom.jpg"
@@ -4564,17 +4319,14 @@
       "brand": "SAF HOBİ",
       "category": "Runner & Amerikan Servisi",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052114270",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/13/b5d5a413-56dc-31c5-a96b-cd25603f575f/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/13/9f40326f-98ed-3745-bab9-0253daa9e87c/1_org_zoom.jpg",
@@ -4592,17 +4344,14 @@
       "brand": "SAF HOBİ",
       "category": "Runner & Amerikan Servisi",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052114260",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/13/137a0e12-74af-3238-adfd-231ee06941c6/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/13/4d21335e-0806-39e6-92ba-f0e554c2aabe/1_org_zoom.jpg"
@@ -4618,18 +4367,14 @@
       "brand": "SAF HOBİ",
       "category": "Saksı",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052180907",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1789/prod/QC_PREP/20251118/14/2cf0f97b-0abd-3f14-97ab-02b71032b1c9/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251118/14/8e195252-cfe5-3145-86a7-206f2848bcd5/1_org_zoom.jpg",
@@ -4647,18 +4392,14 @@
       "brand": "SAF HOBİ",
       "category": "Saksı",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1143724377",
-      "price": 350,
+      "price": 315,
       "originalPrice": null,
-      "priceText": "350",
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "Çok Al Az Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1901/prod/QC_PREP/20260508/20/558c5736-5acf-3c01-9199-f2aae1995d5e/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1937/prod/QC_PREP/20260508/20/851c8495-f06a-3d0a-bbf0-1591767e914a/1_org_zoom.jpg",
@@ -4676,17 +4417,15 @@
       "brand": "Fisher Space Pen",
       "category": "Sanatsal Kağıt & Kalem",
       "url": "https://www.trendyol.com/fisher-space-pen/field-notes-fn-19-basincli-uzay-kalemi-ozel-kutulu-p-1189698674",
-      "price": 3000,
-      "originalPrice": null,
-      "priceText": "3.000",
+      "price": 2700,
+      "originalPrice": 3000,
+      "priceText": "2.700",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1945/prod/QC_PREP/20260822/14/9b4f581d-93bc-3e1c-912a-7570e7b2d1ca/1_org_zoom.jpg"
@@ -4701,17 +4440,15 @@
       "brand": "Insta360",
       "category": "Selfie Çubuğu",
       "url": "https://www.trendyol.com/insta360/invisible-selfie-stick-360-kamera-uyumlu-gorunmez-selfie-cubugu-p-1197686405",
-      "price": 3500,
+      "price": 3150,
       "originalPrice": null,
-      "priceText": "3.500",
+      "priceText": "3.150",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1945/prod/QC_PREP/20260822/17/1f694e57-c6df-33f1-a75c-24c3d9855329/1_org_zoom.jpg"
@@ -4726,17 +4463,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Sera ve Sera Ekipmanları",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/3d-baski-bitki-koklendirme-tutucu-7-delikli-celik-standi-p-1175629617",
-      "price": 280,
-      "originalPrice": null,
-      "priceText": "280",
+      "price": 252,
+      "originalPrice": 280,
+      "priceText": "252",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "Çok Al Az Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1909/prod/QC_PREP/20260724/20/f74d4955-6053-37a1-a138-b89a212ef92b/1_org_zoom.jpg"
       ],
@@ -4751,15 +4485,14 @@
       "category": "Sistem Kablo & Aksesuar",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/arac-icecek-dengeleyici-gimbal-dokulmeye-karsi-akilli-cozum-p-1175630939",
       "price": 405,
-      "originalPrice": 450,
+      "originalPrice": null,
       "priceText": "405",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1940/prod/QC_PREP/20260724/20/88763a3e-3d39-3eab-8e0f-499832650ddb/1_org_zoom.jpg"
@@ -4774,18 +4507,14 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052181427",
-      "price": 350,
-      "originalPrice": null,
-      "priceText": "350",
+      "price": 315,
+      "originalPrice": 350,
+      "priceText": "315",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "freeCargo": false,
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/14/93becfe9-bb01-341d-8d64-d6691ea86cce/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/14/b04cd2cb-a2b9-3a87-bf10-aabe050e0fd1/1_org_zoom.jpg",
@@ -4803,17 +4532,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/barok-desenli-dekoratif-led-mumluk-fener-p-1185486214",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1937/prod/QC_PREP/20260813/18/c67c0bc3-6abe-32f7-85d1-39eb3b3dcb11/1_org_zoom.jpg"
       ],
@@ -4827,17 +4553,14 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-981694049",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1742/prod/QC_PREP/20250902/16/c3c04b02-dd32-377d-bf88-1f8ef4d0c670/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/16/e5b2addc-1ed1-33b0-8868-f4246d3f4dce/1_org_zoom.jpg",
@@ -4855,17 +4578,15 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099572095",
-      "price": 650,
-      "originalPrice": null,
-      "priceText": "650",
+      "price": 585,
+      "originalPrice": 650,
+      "priceText": "585",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1821/prod/QC_PREP/20260209/18/d31d088a-f80b-3731-94e2-a6d1af25578f/1_org_zoom.jpg",
@@ -4884,17 +4605,14 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1099556545",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1823/prod/QC_PREP/20260209/17/49d0a99e-cd8a-31d3-bd54-9449401ce4dc/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1822/prod/QC_PREP/20260209/17/891c3937-47b7-33cb-9f47-cc01278a0945/1_org_zoom.jpg",
@@ -4912,17 +4630,14 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1082320982",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1809/prod/QC_PREP/20260109/21/0b2b35cf-df8c-33fa-a0ba-7d7584f4fd60/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1811/prod/QC_PREP/20260109/21/add2ae16-17d0-3cb1-a94d-ae22228e4899/1_org_zoom.jpg",
@@ -4940,17 +4655,14 @@
       "brand": "SAF HOBİ",
       "category": "Şamdan & Mumluk",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1079324776",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1808/prod/QC_PREP/20260103/18/d228c027-4868-39bd-8905-9430d3387d40/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1808/prod/QC_PREP/20260103/18/21b4d936-c902-38b8-8d14-a9a1d75dc9f4/1_org_zoom.jpg",
@@ -4963,22 +4675,41 @@
       ]
     },
     {
+      "id": 1205170824,
+      "name": "Glow Karanlıkta Parlayan 3’lü Hayalet LED Tea Light Mumluk Seti – 3D Baskı Halloween Dekoru",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Şamdan & Mumluk",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/glow-karanlikta-parlayan-3-lu-hayalet-led-tea-light-mumluk-seti-3d-baski-halloween-dekoru-p-1205170824",
+      "price": 338,
+      "originalPrice": null,
+      "priceText": "337,50",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1962/prod/QC_PREP/20260926/13/7f4fc1e8-4b95-3b4c-ae51-3a5b8148b35b/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1205170824-0.webp"
+      ]
+    },
+    {
       "id": 1161494681,
       "name": "Akrep Pençesi Dekoratif KULAKLIK STAND",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tablet Standı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/akrep-pencesi-dekoratif-kulaklik-stand-p-1161494681",
-      "price": 950,
-      "originalPrice": null,
-      "priceText": "950",
+      "price": 855,
+      "originalPrice": 950,
+      "priceText": "855",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1929/prod/QC_PREP/20260627/14/3acc9220-d895-356c-b9f9-23aa783b6cd9/1_org_zoom.jpg"
@@ -4993,17 +4724,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tablet Standı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kedi-figurlu-oyuncu-kulakligi-askilik-dekoratif-masaustu-aksesuari-p-1201834848",
-      "price": 750,
+      "price": 675,
       "originalPrice": null,
-      "priceText": "750",
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1960/prod/QC_PREP/20260920/21/78b80a07-7643-32fc-b217-9d1633fde5e4/1_org_zoom.jpg"
@@ -5018,17 +4747,14 @@
       "brand": "SAF HOBİ",
       "category": "Tablo",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1065906070",
-      "price": 175,
-      "originalPrice": null,
-      "priceText": "175",
+      "price": 158,
+      "originalPrice": 175,
+      "priceText": "157,50",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1799/prod/QC_PREP/20251212/17/3029cf9f-e747-3e8b-9b93-1420dfc6c81f/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1797/prod/QC_PREP/20251212/17/6ba85a87-558b-3b17-9c68-79f139d2e135/1_org_zoom.jpg"
@@ -5044,17 +4770,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Telsiz & Kamera & Dedektör",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/petcube-cam-1080p-hd-wi-fi-akilli-evcil-hayvan-kamerasi-p-1186054854",
-      "price": 12500,
+      "price": 11250,
       "originalPrice": null,
-      "priceText": "12.500",
+      "priceText": "11.250",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1906/prod/QC_PREP/20260815/13/074b671e-375c-3c4c-ac16-5626d93c4f63/1_org_zoom.jpg"
@@ -5064,46 +4788,19 @@
       ]
     },
     {
-      "id": 1175726633,
-      "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Tükenmez Kalem",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726633",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1891/prod/QC_PREP/20260724/23/24c8eb3b-eb3d-3666-8009-81141a6dfeca/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1175726633-0.webp"
-      ]
-    },
-    {
       "id": 1175726904,
       "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tükenmez Kalem",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726904",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
+      "price": 198,
+      "originalPrice": 220,
+      "priceText": "198",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1931/prod/QC_PREP/20260724/23/303ae27c-9d81-36c9-a6ba-aa2a5673405e/1_org_zoom.jpg"
       ],
@@ -5112,27 +4809,24 @@
       ]
     },
     {
-      "id": 1175726604,
+      "id": 1175726633,
       "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tükenmez Kalem",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726604",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726633",
+      "price": 198,
+      "originalPrice": 220,
+      "priceText": "198",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1908/prod/QC_PREP/20260724/23/98c58baf-6e3e-3c13-9b1c-259d04622890/1_org_zoom.jpg"
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1891/prod/QC_PREP/20260724/23/24c8eb3b-eb3d-3666-8009-81141a6dfeca/1_org_zoom.jpg"
       ],
       "localImages": [
-        "assets/products/1175726604-0.webp"
+        "assets/products/1175726633-0.webp"
       ]
     },
     {
@@ -5141,17 +4835,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tükenmez Kalem",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726676",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
+      "price": 198,
+      "originalPrice": 220,
+      "priceText": "198",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1900/prod/QC_PREP/20260724/23/3917e686-dbf6-3180-bbe5-d2e2036e7886/1_org_zoom.jpg"
       ],
@@ -5165,17 +4856,14 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Tükenmez Kalem",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726650",
-      "price": 220,
-      "originalPrice": null,
-      "priceText": "220",
+      "price": 198,
+      "originalPrice": 220,
+      "priceText": "198",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1922/prod/QC_PREP/20260724/23/0141c6e7-49ec-3b7b-be48-2b5c97007e82/1_org_zoom.jpg"
       ],
@@ -5184,22 +4872,40 @@
       ]
     },
     {
+      "id": 1175726604,
+      "name": "✏️ Süper Sonsuz Kalem (Bitmeyen Kalem) – Silinmeyen Konfor, Uzun Ömürlü Kullanım",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
+      "category": "Tükenmez Kalem",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/super-sonsuz-kalem-bitmeyen-kalem-silinmeyen-konfor-uzun-omurlu-kullanim-p-1175726604",
+      "price": 198,
+      "originalPrice": 220,
+      "priceText": "198",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": false,
+      "badges": [],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1908/prod/QC_PREP/20260724/23/98c58baf-6e3e-3c13-9b1c-259d04622890/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1175726604-0.webp"
+      ]
+    },
+    {
       "id": 1052339754,
       "name": "“El Yapımı Epoksi Tasarım | Sevgiyle Hazırlanmış Hobi Ürünü | Benzersiz ve Özgün”",
       "brand": "SAF HOBİ",
       "category": "Tütsü ve Buhurdanlık",
       "url": "https://www.trendyol.com/saf-hobi/el-yapimi-epoksi-tasarim-sevgiyle-hazirlanmis-hobi-urunu-benzersiz-ve-ozgun-p-1052339754",
-      "price": 200,
-      "originalPrice": null,
-      "priceText": "200",
+      "price": 180,
+      "originalPrice": 200,
+      "priceText": "180",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251118/16/1cae5be2-0cb6-3812-a67a-f9fe350f82e3/1_org_zoom.jpg"
       ],
@@ -5213,17 +4919,14 @@
       "brand": "SAF HOBİ",
       "category": "Tütsü ve Buhurdanlık",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-palo-santo-tutsuluk-dekoratif-obje-kadin-tasarimi-p-981660700",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/14/9f4115ba-af68-3515-9cad-eb3554e51310/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/14/345b81e6-aec1-3c71-a0b0-c15a41b09fcf/1_org_zoom.jpg",
@@ -5241,17 +4944,14 @@
       "brand": "SAF HOBİ",
       "category": "Tütsü ve Buhurdanlık",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-palo-santo-tutsuluk-dekoratif-obje-kadin-tasarimi-p-981660689",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/14/0481870c-b2b4-3a37-bdff-d58aa0fb984b/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1741/prod/QC_PREP/20250902/14/28282514-7db8-34d2-85c4-775ca577c1cd/1_org_zoom.jpg",
@@ -5269,17 +4969,14 @@
       "brand": "SAF HOBİ",
       "category": "Tütsü ve Buhurdanlık",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-palo-santo-tutsuluk-dekoratif-obje-kadin-tasarimi-p-981660682",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1741/prod/QC_PREP/20250902/14/98bfb071-2bb3-3205-beb9-949402e048cb/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1742/prod/QC_PREP/20250902/14/14ed4a51-ca87-3d0b-a812-7a3fc2a607d1/1_org_zoom.jpg",
@@ -5297,17 +4994,14 @@
       "brand": "SAF HOBİ",
       "category": "Tütsü ve Buhurdanlık",
       "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-tutsuluk-kadin-tasarimi-p-981636222",
-      "price": 150,
-      "originalPrice": null,
-      "priceText": "150",
+      "price": 135,
+      "originalPrice": 150,
+      "priceText": "135",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/13/ddc1e031-16d5-3fb5-bb2b-acc38ca59b80/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1740/prod/QC_PREP/20250902/13/e58e7ec9-be7b-328a-a872-bd89785db413/1_org_zoom.jpg",
@@ -5325,17 +5019,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Vazo",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/barok-desenli-dekoratif-vazo-tas-gorunumlu-sik-ev-dekorasyonu-p-1163414761",
-      "price": 750,
-      "originalPrice": null,
-      "priceText": "750",
+      "price": 675,
+      "originalPrice": 750,
+      "priceText": "675",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1891/prod/QC_PREP/20260701/18/592a6406-b7dc-3aa0-a1f4-a8a13e7352bc/1_org_zoom.jpg"
@@ -5345,47 +5037,20 @@
       ]
     },
     {
-      "id": 1161491945,
-      "name": "Çiçek Desenli Dekoratif Vazo",
-      "brand": "SAF HOBİ ATÖLYE DESİGN",
-      "category": "Vazo",
-      "url": "https://www.trendyol.com/saf-hobi-atolye-design/cicek-desenli-dekoratif-vazo-p-1161491945",
-      "price": 550,
-      "originalPrice": null,
-      "priceText": "550",
-      "currency": "TL",
-      "rating": null,
-      "reviewCount": 0,
-      "freeCargo": true,
-      "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
-      ],
-      "images": [
-        "https://cdn.dsmcdn.com/mnresize/800/-/ty1924/prod/QC_PREP/20260627/14/ec3ab3c7-243c-3e95-8460-79b45dceeb91/1_org_zoom.jpg"
-      ],
-      "localImages": [
-        "assets/products/1161491945-0.webp"
-      ]
-    },
-    {
       "id": 1161492260,
       "name": "Çiçek Desenli Dekoratif Vazo",
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Vazo",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/cicek-desenli-dekoratif-vazo-p-1161492260",
-      "price": 500,
-      "originalPrice": null,
-      "priceText": "500",
+      "price": 450,
+      "originalPrice": 500,
+      "priceText": "450",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1905/prod/QC_PREP/20260627/14/09042766-fb1e-3d9a-b460-52e448561ad7/1_org_zoom.jpg"
@@ -5395,22 +5060,43 @@
       ]
     },
     {
-      "id": 1050776213,
-      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
-      "brand": "SAF HOBİ",
+      "id": 1161491945,
+      "name": "Çiçek Desenli Dekoratif Vazo",
+      "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Vazo",
-      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1050776213",
-      "price": 450,
-      "originalPrice": null,
-      "priceText": "450",
+      "url": "https://www.trendyol.com/saf-hobi-atolye-design/cicek-desenli-dekoratif-vazo-p-1161491945",
+      "price": 495,
+      "originalPrice": 550,
+      "priceText": "495",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
+      ],
+      "images": [
+        "https://cdn.dsmcdn.com/mnresize/800/-/ty1924/prod/QC_PREP/20260627/14/ec3ab3c7-243c-3e95-8460-79b45dceeb91/1_org_zoom.jpg"
+      ],
+      "localImages": [
+        "assets/products/1161491945-0.webp"
+      ]
+    },
+    {
+      "id": 1050776213,
+      "name": "El Emeği Epoksi Reçine Saksı / Dekoratif Obje (Çiçeksiz) - Kadın Tasarımı",
+      "brand": "SAF HOBİ",
+      "category": "Vazo",
+      "url": "https://www.trendyol.com/saf-hobi/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1050776213",
+      "price": 405,
+      "originalPrice": 450,
+      "priceText": "405",
+      "currency": "TL",
+      "rating": null,
+      "reviewCount": 0,
+      "freeCargo": true,
+      "badges": [
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251115/16/e19e3236-c04c-34bd-ba9b-0dc49fc1d066/1_org_zoom.jpg",
@@ -5429,17 +5115,14 @@
       "brand": "Genel Markalar",
       "category": "Vazo",
       "url": "https://www.trendyol.com/genel-markalar/el-emegi-epoksi-recine-saksi-dekoratif-obje-ciceksiz-kadin-tasarimi-p-1050029360",
-      "price": 300,
-      "originalPrice": null,
-      "priceText": "300",
+      "price": 270,
+      "originalPrice": 300,
+      "priceText": "270",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1788/prod/QC_PREP/20251114/12/80d7119a-f470-36f3-902e-c86a84cadc5d/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1790/prod/QC_PREP/20251114/12/2ac0afc1-c37d-3974-9b7f-c3670b99701f/1_org_zoom.jpg",
@@ -5457,17 +5140,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Yayıncı Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/gargoyle-heykeli-dekoratif-masaustu-biblo-gotik-kanatli-seytan-heykeli-p-1160856361",
-      "price": 950,
-      "originalPrice": null,
-      "priceText": "950",
+      "price": 855,
+      "originalPrice": 950,
+      "priceText": "855",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1915/prod/QC_PREP/20260625/15/ca2133a2-ea6f-3dd7-a71a-9defd43eacbd/1_org_zoom.jpg"
@@ -5482,17 +5163,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Yayıncı Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/kedi-figurlu-kulaklik-standi-3d-baski-masaustu-kulaklik-tutucu-p-1157399794",
-      "price": 650,
-      "originalPrice": null,
-      "priceText": "650",
+      "price": 585,
+      "originalPrice": 650,
+      "priceText": "585",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1919/prod/QC_PREP/20260617/12/edaafe88-8ed2-3b63-80ca-1fc96bde4ee8/1_org_zoom.jpg",
@@ -5509,17 +5188,15 @@
       "brand": "SAF HOBİ ATÖLYE DESİGN",
       "category": "Yayıncı Aksesuarı",
       "url": "https://www.trendyol.com/saf-hobi-atolye-design/yilan-tasarimli-3d-baski-kulaklik-standi-p-1158554927",
-      "price": 950,
-      "originalPrice": null,
-      "priceText": "950",
+      "price": 855,
+      "originalPrice": 950,
+      "priceText": "855",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": true,
       "badges": [
-        "Kargo Bedava",
-        "50 TL Kupon",
-        "4 Al 3 Öde"
+        "Kargo Bedava"
       ],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1915/prod/QC_PREP/20260619/14/16b91ba6-4af1-39b0-8fcc-588db670e1c7/1_org_zoom.jpg"
@@ -5534,17 +5211,14 @@
       "brand": "SAF HOBİ",
       "category": "Yüzme Malzemesi",
       "url": "https://www.trendyol.com/saf-hobi/sisme-bardak-tutucu-deniz-ve-havuz-icecekligi-p-1128518756",
-      "price": 250,
-      "originalPrice": null,
-      "priceText": "250",
+      "price": 225,
+      "originalPrice": 250,
+      "priceText": "225",
       "currency": "TL",
       "rating": null,
       "reviewCount": 0,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1849/prod/QC_PREP/20260404/20/957b6499-061c-35b3-971f-20489770e32d/1_org_zoom.jpg"
       ],
@@ -5558,17 +5232,14 @@
       "brand": "Genel Markalar",
       "category": "Yüzme Malzemesi",
       "url": "https://www.trendyol.com/genel-markalar/sisme-bardak-tutucu-deniz-ve-havuz-icin-renkli-tasinabilir-barcak-p-1160542793",
-      "price": 270,
-      "originalPrice": null,
-      "priceText": "270",
+      "price": 243,
+      "originalPrice": 270,
+      "priceText": "243",
       "currency": "TL",
       "rating": 5,
       "reviewCount": 1,
       "freeCargo": false,
-      "badges": [
-        "Kupon Fırsatı",
-        "4 Al 3 Öde"
-      ],
+      "badges": [],
       "images": [
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1935/prod/QC_PREP/20260530/16/44cc97b3-12da-3b20-8ac0-15d201b9730b/1_org_zoom.jpg",
         "https://cdn.dsmcdn.com/mnresize/800/-/ty1939/prod/QC_PREP/20260530/16/f11f475f-22cc-3452-abf3-acbae0a0057e/1_org_zoom.jpg"
