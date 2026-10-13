@@ -22,6 +22,7 @@
   initNav();
   initHeroScrub();
   buildMarkets();
+  initVisitorCounter();
 
   fetch('products.json', { cache: 'no-cache' })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
@@ -392,6 +393,32 @@
           `<a class="ig-cell" href="https://www.instagram.com/safhobi" target="_blank" rel="noopener" aria-label="${esc(p.name)}"><img src="${img(p, 0)}" alt="" loading="lazy" onerror="this.closest('.ig-cell').remove()"><span class="ig-heart" aria-hidden="true">♥</span></a>`
       )
       .join('');
+  }
+
+  /* ---------- ziyaretçi sayacı ----------
+     Gerçek sayaç hits.dwyl.com'da (ücretsiz, açık kaynak, her GET'te artar).
+     Tarayıcıdan doğrudan fetch CORS'a takıldığı için /api/visits (Vercel
+     serverless) sunucu tarafında arabuluculuk yapıyor — bkz. api/visits.js.
+     Sekme oturumu başına bir kez sayılır (sessionStorage) ki sayfa yenilemek
+     sayıyı şişirmesin. Tarayıcı/cihaz bazlı, tam "tekil ziyaretçi" değil —
+     ama basit ve bakımsız çalışan bir tahmini sayaç için yeterli. */
+  function initVisitorCounter() {
+    const wrap = $('#visitorCounter');
+    const el = $('#visitorCount');
+    if (!wrap || !el) return;
+    const CACHE_KEY = 'sh_visits_cached';
+    const cached = sessionStorage.getItem(CACHE_KEY);
+    if (cached) { el.textContent = fmtCount(cached); return; }
+    fetch('/api/visits', { cache: 'no-store' })
+      .then((r) => r.json())
+      .then((d) => {
+        const n = parseInt(d.count, 10);
+        if (!Number.isFinite(n)) throw new Error('geçersiz sayı');
+        el.textContent = fmtCount(n);
+        sessionStorage.setItem(CACHE_KEY, String(n));
+      })
+      .catch(() => { wrap.hidden = true; });
+    function fmtCount(n) { return Number(n).toLocaleString('tr-TR'); }
   }
 
   /* ---------- pazaryerleri + güven şeridi ---------- */

@@ -633,6 +633,16 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; line-height: 1.
   font-size: 0.8rem; color: var(--muted);
 }
 .footer-bar p { margin: 0; }
+.visitor-counter {
+  display: inline-flex; align-items: center; gap: 0.4em;
+  padding: 0.35em 0.9em;
+  background: var(--glass);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-variant-numeric: tabular-nums;
+}
+.visitor-counter b { color: var(--pink-300); font-weight: 700; }
+.visitor-counter[hidden] { display: none; }
 @media (max-width: 780px) {
   .footer-top { grid-template-columns: 1fr 1fr; }
   .footer-brand { grid-column: 1 / -1; }
